@@ -4,7 +4,7 @@ from collections import Counter #counting purpose of each word in transcript
 
 import spacy #for extraction of entities
 from fastapi import FastAPI, HTTPException #FastAPI TO CREATE BACKEND API , HTTPException to send error response when something is wrong
-
+from preprocessing import preprocess_transcript
 from fastapi.middleware.cors import CORSMiddleware #to communicate frontend and backend working on different ports
 from pydantic import BaseModel, Field #to define and validate the data out API receives and returns
 
@@ -42,7 +42,8 @@ def get_speaker(sentence: str) -> str | None:
 
 
 def extract_insights(transcript: str) -> dict:
-    sentences = split_sentences(transcript)
+    preprocessed_sentences=preprocess_transcript(transcript)
+    sentences=[item['original_text'] for item in preprocessed_sentences]
 
     actions = []
     decisions = []
