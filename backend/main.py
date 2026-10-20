@@ -1,7 +1,7 @@
 
 import re # regular expressions for emails or dates
 from collections import Counter #counting purpose of each word in transcript
-
+from extraction import extract_information
 import spacy #for extraction of entities
 from fastapi import FastAPI, HTTPException #FastAPI TO CREATE BACKEND API , HTTPException to send error response when something is wrong
 from preprocessing import preprocess_transcript
@@ -44,6 +44,10 @@ def get_speaker(sentence: str) -> str | None:
 def extract_insights(transcript: str) -> dict:
     preprocessed_sentences=preprocess_transcript(transcript)
     sentences=[item['original_text'] for item in preprocessed_sentences]
+
+    processed_sentences = preprocess_transcript(transcript)
+
+    extracted = extract_information(processed_sentences)
 
     actions = []
     decisions = []
