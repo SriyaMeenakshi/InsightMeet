@@ -1,0 +1,178 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ivory: #f5f2ea;
+  --color-ivory-deep: #ece7da;
+  --color-forest: #183d32;
+  --color-forest-deep: #0f2a22;
+  --color-emerald: #34765a;
+  --color-sage: #a6b9a5;
+  --color-sage-soft: #dbe3d6;
+  --color-charcoal: #242a26;
+  --color-muted: #5c655f;
+  --color-line: #dcd6c6;
+  --color-clay: #a5483a;
+  --color-clay-soft: #f1ddd7;
+  --color-amber: #9a6a14;
+  --color-amber-soft: #f3e6c8;
+
+  --font-serif: var(--font-fraunces), "Iowan Old Style", Georgia, serif;
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5.5rem;
+}
+
+body {
+  background: var(--color-ivory);
+  color: var(--color-charcoal);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--color-sage);
+  color: var(--color-forest-deep);
+}
+
+h1,
+h2,
+h3,
+.font-serif {
+  font-family: var(--font-serif);
+  font-optical-sizing: auto;
+}
+
+.eyebrow {
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--color-emerald);
+}
+
+.display {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  line-height: 1.02;
+}
+
+.display em {
+  font-style: italic;
+  color: var(--color-emerald);
+}
+
+.on-dark .display em {
+  color: var(--color-sage);
+}
+
+.paper {
+  background: #fffdf8;
+  border: 1px solid var(--color-line);
+  box-shadow: 0 1px 0 rgba(36, 42, 38, 0.03), 0 8px 24px -16px rgba(24, 61, 50, 0.18);
+}
+
+.hairline {
+  border-color: var(--color-line);
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  border-radius: 999px;
+  padding: 0.7rem 1.25rem;
+  font-size: 0.9rem;
+  font-weight: 550;
+  transition: background-color 0.2s, color 0.2s, border-color 0.2s, transform 0.2s;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.btn-primary {
+  background: var(--color-forest);
+  color: var(--color-ivory);
+}
+
+.btn-primary:hover:not(:disabled) {
+  background: var(--color-emerald);
+}
+
+.btn-ghost {
+  border: 1px solid var(--color-forest);
+  color: var(--color-forest);
+}
+
+.btn-ghost:hover:not(:disabled) {
+  background: var(--color-forest);
+  color: var(--color-ivory);
+}
+
+.btn-light {
+  background: var(--color-ivory);
+  color: var(--color-forest);
+}
+
+.btn-light:hover:not(:disabled) {
+  background: #fff;
+}
+
+.btn-outline-light {
+  border: 1px solid rgba(245, 242, 234, 0.45);
+  color: var(--color-ivory);
+}
+
+.btn-outline-light:hover:not(:disabled) {
+  background: rgba(245, 242, 234, 0.12);
+}
+
+.focus-ring:focus-visible,
+.btn:focus-visible,
+a:focus-visible,
+button:focus-visible,
+textarea:focus-visible,
+input:focus-visible,
+select:focus-visible {
+  outline: 2px solid var(--color-emerald);
+  outline-offset: 2px;
+}
+
+.mark-flash {
+  animation: flash 2.4s ease-out;
+}
+
+@keyframes flash {
+  0%,
+  30% {
+    background: rgba(166, 185, 165, 0.65);
+  }
+  100% {
+    background: transparent;
+  }
+}
+
+.scrollbar-thin {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-sage) transparent;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
