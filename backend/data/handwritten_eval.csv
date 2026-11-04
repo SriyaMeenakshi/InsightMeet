@@ -1,0 +1,73 @@
+text,label
+"ok so i'll get the wireframes done by thursday",ACTION
+"Meera, could you send the survey link to the class group today",ACTION
+"Arjun is going to set up the staging server this week",ACTION
+"we really need to write the test cases before the review",ACTION
+"I can pick up the slides if nobody has started them",ACTION
+"Dev will sort out the login bug tomorrow",ACTION
+"Please share the dataset with Kiran after the call",ACTION
+"I'm handling the report so don't worry about that one",ACTION
+"Let me clean up the API docs tonight",ACTION
+"Priya takes the database migration",ACTION
+"I'll ping the client about the invoice on monday",ACTION
+"Neha needs to submit the form by the 20th",ACTION
+"ok fine lets go with postgres then",DECISION
+"So we agreed the demo stays on the 12th",DECISION
+"Alright, decision made: tailwind for the styling",DECISION
+"We're not doing the mobile app this semester, that's final",DECISION
+"Okay let's stick with the original timeline",DECISION
+"we've settled on using sqlite for the prototype",DECISION
+"Team agreed that Rahul leads the backend",DECISION
+"Right so the review is moving to thursday, everyone okay with that, yes",DECISION
+"Approved, we ship the beta on friday",DECISION
+"Let's drop the chatbot from phase one",DECISION
+"It's decided then, weekly standups on mondays",DECISION
+"Good, we will use github projects for tracking",DECISION
+"the build has been failing since yesterday morning",ISSUE
+"honestly the login thing is just broken on safari",ISSUE
+"We can't deploy because the credentials expired",ISSUE
+"The api times out whenever more than ten people use it",ISSUE
+"testing is stuck waiting for the backend",ISSUE
+"There's a big problem with how the data is labelled",ISSUE
+"The vendor still hasn't given us access to the server",ISSUE
+"our budget won't cover the paid plan",ISSUE
+"The dashboard is crashing when the file is empty",ISSUE
+"We're two days behind on the report",ISSUE
+"the database keeps dropping connections",ISSUE
+"Docker doesn't start on my laptop at all",ISSUE
+"maybe we could try a smaller model first",SUGGESTION
+"What if we demo the prototype before the final build",SUGGESTION
+"I think it'd be better to move testing earlier",SUGGESTION
+"how about we split the report into two parts",SUGGESTION
+"We might want to use redis for caching",SUGGESTION
+"perhaps Ananya could review the design first",SUGGESTION
+"Why don't we ask the professor for an extension",SUGGESTION
+"It would help if we had a shared folder for the files",SUGGESTION
+"we could also add a dark mode later",SUGGESTION
+"Should we consider hosting this on render",SUGGESTION
+"One idea is to record the demo in advance",SUGGESTION
+"maybe someone can pair with Dev on the tests",SUGGESTION
+"The frontend is deployed on vercel",INFORMATION
+"yeah thanks everyone for joining",INFORMATION
+"I finished the survey questions last night",INFORMATION
+"We have around two hundred responses so far",INFORMATION
+"The meeting is scheduled for an hour",INFORMATION
+"Rahul joined the team in january",INFORMATION
+"The model reaches seventy percent on the validation set",INFORMATION
+"okay that's all from my side",INFORMATION
+"The professor will be on campus until friday",INFORMATION
+"So the repo has three branches right now",INFORMATION
+"Last sprint we closed fourteen tickets",INFORMATION
+"hello everyone, can everyone hear me",INFORMATION
+"who is going to present on monday?",QUESTION
+"what's the status of the dataset?",QUESTION
+"Is the login fixed yet?",QUESTION
+"do we know when the professor needs the report?",QUESTION
+"How many people are in the team?",QUESTION
+"has anyone looked at the failing build",QUESTION
+"Which database did we pick?",QUESTION
+"are we meeting on friday or monday",QUESTION
+"Where did we put the project files?",QUESTION
+"Why did the deployment fail last night?",QUESTION
+"when is the next review?",QUESTION
+"Anyone free to test the new build?",QUESTION

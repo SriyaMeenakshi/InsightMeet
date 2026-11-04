@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# InsightMeet
+backend/data/*.db
+backend/models/*.joblib
+frontend/node_modules/
+frontend/.next/
+frontend/next-env.d.ts

@@ -1,0 +1,21 @@
+[10:02] Sriya: ok guys lets start. we have the demo coming up and the dashboard isnt ready yet
+[10:03] Rahul: yeah the login page is still broken on safari. i'll fix it by friday
+Ananya: testing is blocked because the login isnt working. i cant test the dashboard until its fixed
+Sriya: right. Kiran, can you update the API documentation by tuesday?
+Kiran: sure, i'll do it
+Sriya: maybe we should use MongoDB for the database?
+Rahul: hmm i dont think so. sqlite is fine for the prototype and cheaper
+Sriya: fine, lets use SQLite for now
+Ananya: i can try to write the unit tests, but no promises
+Sriya: ok. Rahul will finish the frontend by thursday
+Rahul: actually that wont work, the frontend needs more time. lets push the frontend deadline to monday
+Sriya: ok agreed, frontend is moved to monday
+Kiran: what is the status of the deployment?
+Sriya: we need to prepare the deployment script
+Ananya: the server keeps crashing under load, which delays the demo
+Rahul: the login is fixed now
+Sriya: great. Ananya, please test the login page again before the demo
+Ananya: i'll test it tomorrow
+Sriya: we should add a dark mode later
+Kiran: the API docs are done
+Sriya: thanks everyone. we decided to hold the demo next friday

@@ -1,0 +1,1247 @@
+text,label,template_id,split
+I will update the database schema by tonight.,ACTION,ACT-00,train
+i will draft the presentation slides by end of day.,ACTION,ACT-00,train
+i will prepare the onboarding flow by thursday.,ACTION,ACT-00,train
+i will complete the api documentation by tomorrow.,ACTION,ACT-00,train
+I will finish the data cleaning script by next week.,ACTION,ACT-00,train
+I will fix the export feature by Thursday,ACTION,ACT-00,train
+i will write the onboarding flow by next week.,ACTION,ACT-00,train
+I'll complete the payment module Monday.,ACTION,ACT-01,train
+i'll draft the database schema the 14th.,ACTION,ACT-01,train
+I'll send the user survey tomorrow.,ACTION,ACT-01,train
+I'll finish the analytics charts end of day.,ACTION,ACT-01,train
+I'll check the API documentation Thursday.,ACTION,ACT-01,train
+I'll test the payment module the 14th.,ACTION,ACT-01,train
+I'll test the deployment script Monday.,ACTION,ACT-01,train
+vikram will test the dashboard.,ACTION,ACT-02,train
+Kiran will check the unit tests.,ACTION,ACT-02,train
+kiran will fix the payment module.,ACTION,ACT-02,train
+Arjun will review the mobile layout,ACTION,ACT-02,train
+Rahul will update the login page.,ACTION,ACT-02,train
+Priya will deploy the user survey.,ACTION,ACT-02,train
+Dev will check the dashboard.,ACTION,ACT-02,train
+Neha needs to complete the API documentation before Monday.,ACTION,ACT-03,train
+Vikram needs to fix the API documentation before the 14th.,ACTION,ACT-03,train
+Arjun needs to deploy the presentation slides before end of day.,ACTION,ACT-03,train
+Vikram needs to review the user survey before end of day,ACTION,ACT-03,train
+Dev needs to finish the analytics charts before the 14th.,ACTION,ACT-03,train
+Ananya needs to prepare the unit tests before Wednesday,ACTION,ACT-03,train
+Meera needs to draft the API documentation before tonight.,ACTION,ACT-03,train
+Please send the payment module by Friday.,ACTION,ACT-04,train
+Please write the presentation slides by Friday.,ACTION,ACT-04,train
+Please review the deployment script by tomorrow.,ACTION,ACT-04,train
+Please fix the database schema by Friday.,ACTION,ACT-04,train
+Please fix the landing page by end of day.,ACTION,ACT-04,train
+Please finish the data cleaning script by Monday.,ACTION,ACT-04,train
+Please fix the data cleaning script by the 14th,ACTION,ACT-04,train
+"Sriya, can you write the landing page?",ACTION,ACT-05,test
+"Rahul, can you fix the data cleaning script?",ACTION,ACT-05,test
+"Priya, can you prepare the login page?",ACTION,ACT-05,test
+"Arjun, can you deploy the analytics charts?",ACTION,ACT-05,test
+"Vikram, can you test the deployment script?",ACTION,ACT-05,test
+"vikram, can you check the landing page?",ACTION,ACT-05,test
+"Sriya, can you deploy the analytics charts?",ACTION,ACT-05,test
+Can you fix the analytics charts by the 14th?,ACTION,ACT-06,validation
+Can you deploy the user survey by Monday,ACTION,ACT-06,validation
+Can you check the onboarding flow by tomorrow?,ACTION,ACT-06,validation
+can you fix the payment module by friday?,ACTION,ACT-06,validation
+can you deploy the deployment script by next week?,ACTION,ACT-06,validation
+Can you complete the unit tests by the 14th?,ACTION,ACT-06,validation
+Can you finish the project report by Wednesday?,ACTION,ACT-06,validation
+We need to finish the export feature before the review.,ACTION,ACT-07,train
+We need to test the unit tests before the review.,ACTION,ACT-07,train
+We need to complete the project report before the review.,ACTION,ACT-07,train
+We need to update the deployment script before the review.,ACTION,ACT-07,train
+We need to update the search feature before the review.,ACTION,ACT-07,train
+We need to fix the unit tests before the review.,ACTION,ACT-07,train
+We need to write the user survey before the review,ACTION,ACT-07,train
+I'm going to deploy the project report tonight.,ACTION,ACT-08,train
+I'm going to test the API documentation tonight.,ACTION,ACT-08,train
+I'm going to check the onboarding flow tonight.,ACTION,ACT-08,train
+I'm going to write the data cleaning script tonight,ACTION,ACT-08,train
+I'm going to test the project report tonight.,ACTION,ACT-08,train
+i'm going to review the search feature tonight.,ACTION,ACT-08,train
+I'm going to update the export feature tonight.,ACTION,ACT-08,train
+Arjun is responsible for the database schema.,ACTION,ACT-09,validation
+Sriya is responsible for the deployment script.,ACTION,ACT-09,validation
+Kiran is responsible for the payment module.,ACTION,ACT-09,validation
+Kiran is responsible for the deployment script.,ACTION,ACT-09,validation
+Vikram is responsible for the presentation slides.,ACTION,ACT-09,validation
+Vikram is responsible for the unit tests.,ACTION,ACT-09,validation
+Rahul is responsible for the login page.,ACTION,ACT-09,validation
+Sriya will take care of the export feature.,ACTION,ACT-10,test
+Dev will take care of the data cleaning script.,ACTION,ACT-10,test
+Meera will take care of the data cleaning script.,ACTION,ACT-10,test
+Sriya will take care of the analytics charts,ACTION,ACT-10,test
+Neha will take care of the database schema.,ACTION,ACT-10,test
+Neha will take care of the mobile layout.,ACTION,ACT-10,test
+Meera will take care of the unit tests.,ACTION,ACT-10,test
+Let me check the presentation slides and send it over.,ACTION,ACT-11,test
+Let me deploy the onboarding flow and send it over.,ACTION,ACT-11,test
+Let me fix the onboarding flow and send it over.,ACTION,ACT-11,test
+let me finish the mobile layout and send it over.,ACTION,ACT-11,test
+Let me draft the data cleaning script and send it over.,ACTION,ACT-11,test
+Let me check the deployment script and send it over.,ACTION,ACT-11,test
+Let me write the presentation slides and send it over.,ACTION,ACT-11,test
+I can take the onboarding flow if nobody else wants it,ACTION,ACT-12,validation
+I can take the presentation slides if nobody else wants it.,ACTION,ACT-12,validation
+i can take the mobile layout if nobody else wants it.,ACTION,ACT-12,validation
+I can take the login page if nobody else wants it.,ACTION,ACT-12,validation
+I can take the deployment script if nobody else wants it.,ACTION,ACT-12,validation
+i can take the unit tests if nobody else wants it.,ACTION,ACT-12,validation
+I can take the project report if nobody else wants it.,ACTION,ACT-12,validation
+dev has to send the onboarding flow by end of day.,ACTION,ACT-13,train
+Neha has to complete the user survey by tonight.,ACTION,ACT-13,train
+Dev has to draft the deployment script by Monday.,ACTION,ACT-13,train
+meera has to deploy the presentation slides by monday.,ACTION,ACT-13,train
+Dev has to fix the unit tests by Monday.,ACTION,ACT-13,train
+Meera has to test the mobile layout by end of day.,ACTION,ACT-13,train
+Arjun has to update the mobile layout by next week.,ACTION,ACT-13,train
+I'll try to update the landing page by the 14th.,ACTION,ACT-14,train
+i'll try to review the unit tests by the 14th.,ACTION,ACT-14,train
+I'll try to finish the data cleaning script by tomorrow.,ACTION,ACT-14,train
+I'll try to send the search feature by Monday.,ACTION,ACT-14,train
+I'll try to deploy the dashboard by tonight.,ACTION,ACT-14,train
+I'll try to review the API documentation by Wednesday.,ACTION,ACT-14,train
+I'll try to complete the analytics charts by tonight.,ACTION,ACT-14,train
+The data cleaning script is assigned to Neha.,ACTION,ACT-15,test
+the API documentation is assigned to Meera.,ACTION,ACT-15,test
+The payment module is assigned to Vikram.,ACTION,ACT-15,test
+the deployment script is assigned to Vikram.,ACTION,ACT-15,test
+the login page is assigned to Priya.,ACTION,ACT-15,test
+The onboarding flow is assigned to Arjun.,ACTION,ACT-15,test
+the presentation slides is assigned to priya.,ACTION,ACT-15,test
+Action item: Vikram to deploy the payment module.,ACTION,ACT-16,validation
+Action item: Rahul to send the export feature.,ACTION,ACT-16,validation
+Action item: Sriya to prepare the user survey.,ACTION,ACT-16,validation
+Action item: Ananya to send the analytics charts.,ACTION,ACT-16,validation
+action item: dev to check the onboarding flow.,ACTION,ACT-16,validation
+Action item: Arjun to update the search feature.,ACTION,ACT-16,validation
+Action item: Neha to write the deployment script.,ACTION,ACT-16,validation
+Gonna update the deployment script tomorrow then,ACTION,ACT-17,train
+Gonna draft the mobile layout end of day then,ACTION,ACT-17,train
+Gonna prepare the API documentation Thursday then,ACTION,ACT-17,train
+Gonna deploy the dashboard next week then,ACTION,ACT-17,train
+Gonna finish the project report next week then,ACTION,ACT-17,train
+Gonna draft the dashboard end of day then,ACTION,ACT-17,train
+Gonna write the unit tests Wednesday then,ACTION,ACT-17,train
+I need to draft the unit tests before the 14th.,ACTION,ACT-18,train
+I need to test the export feature before next week,ACTION,ACT-18,train
+i need to complete the data cleaning script before tomorrow.,ACTION,ACT-18,train
+I need to draft the search feature before next week.,ACTION,ACT-18,train
+I need to write the landing page before Thursday.,ACTION,ACT-18,train
+I need to prepare the unit tests before Friday.,ACTION,ACT-18,train
+i need to deploy the user survey before the 14th.,ACTION,ACT-18,train
+We have to send the onboarding flow by end of day.,ACTION,ACT-19,validation
+We have to finish the unit tests by Wednesday.,ACTION,ACT-19,validation
+We have to test the user survey by tomorrow.,ACTION,ACT-19,validation
+We have to fix the deployment script by Thursday.,ACTION,ACT-19,validation
+We have to fix the presentation slides by Friday.,ACTION,ACT-19,validation
+we have to send the analytics charts by the 14th.,ACTION,ACT-19,validation
+we have to test the search feature by monday.,ACTION,ACT-19,validation
+arjun should check the mobile layout once the design is approved.,ACTION,ACT-20,train
+Dev should write the dashboard once the design is approved.,ACTION,ACT-20,train
+Sriya should prepare the data cleaning script once the design is approved.,ACTION,ACT-20,train
+priya should send the search feature once the design is approved.,ACTION,ACT-20,train
+Vikram should write the API documentation once the design is approved.,ACTION,ACT-20,train
+ananya should complete the search feature once the design is approved.,ACTION,ACT-20,train
+Priya should complete the unit tests once the design is approved,ACTION,ACT-20,train
+I'll set up the unit tests and let everyone know.,ACTION,ACT-21,train
+I'll set up the user survey and let everyone know.,ACTION,ACT-21,train
+i'll set up the mobile layout and let everyone know.,ACTION,ACT-21,train
+I'll set up the data cleaning script and let everyone know.,ACTION,ACT-21,train
+I'll set up the analytics charts and let everyone know,ACTION,ACT-21,train
+I'll set up the mobile layout and let everyone know.,ACTION,ACT-21,train
+I'll set up the API documentation and let everyone know.,ACTION,ACT-21,train
+Someone needs to review the project report.,ACTION,ACT-22,validation
+Someone needs to write the deployment script,ACTION,ACT-22,validation
+someone needs to send the api documentation.,ACTION,ACT-22,validation
+Someone needs to finish the API documentation.,ACTION,ACT-22,validation
+Someone needs to deploy the presentation slides.,ACTION,ACT-22,validation
+Someone needs to write the landing page.,ACTION,ACT-22,validation
+Someone needs to write the database schema.,ACTION,ACT-22,validation
+I'll follow up with Ananya about the payment module,ACTION,ACT-23,train
+I'll follow up with Ananya about the export feature.,ACTION,ACT-23,train
+I'll follow up with Kiran about the export feature.,ACTION,ACT-23,train
+I'll follow up with Meera about the dashboard,ACTION,ACT-23,train
+I'll follow up with Priya about the database schema.,ACTION,ACT-23,train
+I'll follow up with Arjun about the analytics charts.,ACTION,ACT-23,train
+I'll follow up with Neha about the data cleaning script.,ACTION,ACT-23,train
+Meera is going to deploy the presentation slides Friday.,ACTION,ACT-24,train
+Vikram is going to prepare the export feature next week.,ACTION,ACT-24,train
+neha is going to test the database schema friday.,ACTION,ACT-24,train
+Kiran is going to check the dashboard tomorrow.,ACTION,ACT-24,train
+Dev is going to send the data cleaning script end of day.,ACTION,ACT-24,train
+Kiran is going to prepare the presentation slides next week.,ACTION,ACT-24,train
+Arjun is going to fix the onboarding flow end of day,ACTION,ACT-24,train
+I'll take the export feature.,ACTION,ACT-25,test
+i'll take the dashboard.,ACTION,ACT-25,test
+I'll take the unit tests.,ACTION,ACT-25,test
+I'll take the API documentation.,ACTION,ACT-25,test
+I'll take the analytics charts,ACTION,ACT-25,test
+i'll take the project report.,ACTION,ACT-25,test
+i'll take the database schema.,ACTION,ACT-25,test
+"Sure, I'll prepare the login page.",ACTION,ACT-26,test
+"Sure, I'll check the presentation slides.",ACTION,ACT-26,test
+"Sure, I'll fix the search feature.",ACTION,ACT-26,test
+"Sure, I'll deploy the analytics charts.",ACTION,ACT-26,test
+"Sure, I'll review the unit tests.",ACTION,ACT-26,test
+"sure, i'll review the mobile layout.",ACTION,ACT-26,test
+"Sure, I'll check the login page.",ACTION,ACT-26,test
+I can fix the presentation slides by tomorrow.,ACTION,ACT-27,train
+I can draft the unit tests by end of day.,ACTION,ACT-27,train
+I can send the payment module by tonight.,ACTION,ACT-27,train
+i can complete the payment module by friday.,ACTION,ACT-27,train
+I can check the deployment script by Friday.,ACTION,ACT-27,train
+I can complete the data cleaning script by end of day.,ACTION,ACT-27,train
+I can draft the project report by tonight.,ACTION,ACT-27,train
+The team must fix the presentation slides by tomorrow.,ACTION,ACT-28,train
+The team must send the payment module by the 14th,ACTION,ACT-28,train
+The team must finish the landing page by Wednesday.,ACTION,ACT-28,train
+The team must test the export feature by end of day.,ACTION,ACT-28,train
+The team must test the onboarding flow by the 14th.,ACTION,ACT-28,train
+The team must deploy the export feature by Monday.,ACTION,ACT-28,train
+The team must finish the unit tests by Wednesday.,ACTION,ACT-28,train
+Meera and Ananya will deploy the deployment script,ACTION,ACT-29,train
+Dev and Vikram will review the project report.,ACTION,ACT-29,train
+sriya and neha will finish the dashboard.,ACTION,ACT-29,train
+ananya and sriya will complete the dashboard.,ACTION,ACT-29,train
+Neha and Priya will send the user survey.,ACTION,ACT-29,train
+Ananya and Rahul will complete the landing page,ACTION,ACT-29,train
+Priya and Rahul will check the deployment script.,ACTION,ACT-29,train
+I'll finish the export feature Friday no worries,ACTION,ACT-30,train
+i'll prepare the export feature Friday no worries,ACTION,ACT-30,train
+I'll check the unit tests tonight no worries,ACTION,ACT-30,train
+I'll check the unit tests Monday no worries,ACTION,ACT-30,train
+I'll finish the data cleaning script Wednesday no worries,ACTION,ACT-30,train
+i'll complete the api documentation wednesday no worries,ACTION,ACT-30,train
+i'll prepare the login page thursday no worries,ACTION,ACT-30,train
+"Priya, please finish the database schema when you get a chance.",ACTION,ACT-31,train
+"arjun, please check the api documentation when you get a chance.",ACTION,ACT-31,train
+"Priya, please review the export feature when you get a chance.",ACTION,ACT-31,train
+"Dev, please complete the export feature when you get a chance.",ACTION,ACT-31,train
+"Priya, please write the mobile layout when you get a chance.",ACTION,ACT-31,train
+"Vikram, please prepare the data cleaning script when you get a chance.",ACTION,ACT-31,train
+"Meera, please draft the project report when you get a chance.",ACTION,ACT-31,train
+We decided to use Flask for frontend,DECISION,DEC-00,test
+We decided to use Vue for authentication.,DECISION,DEC-00,test
+We decided to use React for frontend.,DECISION,DEC-00,test
+we decided to use vue for database.,DECISION,DEC-00,test
+we decided to use fastapi for frontend.,DECISION,DEC-00,test
+We decided to use Firebase for documentation.,DECISION,DEC-00,test
+We decided to use Redis for authentication,DECISION,DEC-00,test
+Let's go with Firebase.,DECISION,DEC-01,train
+let's go with fastapi.,DECISION,DEC-01,train
+Let's go with SQLite.,DECISION,DEC-01,train
+Let's go with Flask,DECISION,DEC-01,train
+Let's go with FastAPI.,DECISION,DEC-01,train
+Let's go with MySQL,DECISION,DEC-01,train
+Let's go with SQLite,DECISION,DEC-01,train
+We agreed to move the mobile layout to next week,DECISION,DEC-02,train
+We agreed to move the mobile layout to next week.,DECISION,DEC-02,train
+We agreed to move the landing page to end of day.,DECISION,DEC-02,train
+We agreed to move the database schema to tonight.,DECISION,DEC-02,train
+We agreed to move the onboarding flow to tomorrow.,DECISION,DEC-02,train
+We agreed to move the onboarding flow to Wednesday.,DECISION,DEC-02,train
+We agreed to move the search feature to the 14th.,DECISION,DEC-02,train
+the final decision is to use fastapi.,DECISION,DEC-03,test
+the final decision is to use postgresql.,DECISION,DEC-03,test
+The final decision is to use Flask.,DECISION,DEC-03,test
+The final decision is to use Flask,DECISION,DEC-03,test
+The final decision is to use React.,DECISION,DEC-03,test
+The final decision is to use FastAPI.,DECISION,DEC-03,test
+The final decision is to use MySQL.,DECISION,DEC-03,test
+"Okay, we'll stick with MongoDB for testing.",DECISION,DEC-04,train
+"okay, we'll stick with aws for database.",DECISION,DEC-04,train
+"Okay, we'll stick with React for deployment.",DECISION,DEC-04,train
+"Okay, we'll stick with Docker for database.",DECISION,DEC-04,train
+"Okay, we'll stick with MySQL for authentication.",DECISION,DEC-04,train
+"Okay, we'll stick with Flask for authentication.",DECISION,DEC-04,train
+"Okay, we'll stick with Vue for backend.",DECISION,DEC-04,train
+"It's settled, we are going with Vue.",DECISION,DEC-05,test
+"It's settled, we are going with FastAPI",DECISION,DEC-05,test
+"It's settled, we are going with Redis",DECISION,DEC-05,test
+"It's settled, we are going with PostgreSQL.",DECISION,DEC-05,test
+"It's settled, we are going with FastAPI.",DECISION,DEC-05,test
+"It's settled, we are going with React.",DECISION,DEC-05,test
+"It's settled, we are going with MySQL.",DECISION,DEC-05,test
+We've agreed that Rahul will lead authentication,DECISION,DEC-06,train
+we've agreed that meera will lead database.,DECISION,DEC-06,train
+We've agreed that Rahul will lead database.,DECISION,DEC-06,train
+We've agreed that Priya will lead database,DECISION,DEC-06,train
+We've agreed that Dev will lead frontend.,DECISION,DEC-06,train
+We've agreed that Meera will lead backend.,DECISION,DEC-06,train
+we've agreed that sriya will lead documentation.,DECISION,DEC-06,train
+Decision: use Docker for testing.,DECISION,DEC-07,train
+Decision: use React for database,DECISION,DEC-07,train
+decision: use redis for testing.,DECISION,DEC-07,train
+Decision: use React for frontend.,DECISION,DEC-07,train
+Decision: use MySQL for documentation.,DECISION,DEC-07,train
+decision: use mysql for deployment.,DECISION,DEC-07,train
+Decision: use React for deployment,DECISION,DEC-07,train
+"Fine, let's use MySQL for now.",DECISION,DEC-08,train
+"fine, let's use postgresql for now.",DECISION,DEC-08,train
+"Fine, let's use Flask for now",DECISION,DEC-08,train
+"Fine, let's use Redis for now.",DECISION,DEC-08,train
+"Fine, let's use SQLite for now.",DECISION,DEC-08,train
+"Fine, let's use FastAPI for now.",DECISION,DEC-08,train
+"Fine, let's use PostgreSQL for now.",DECISION,DEC-08,train
+We approved the plan to review the deployment script,DECISION,DEC-09,train
+We approved the plan to review the onboarding flow.,DECISION,DEC-09,train
+We approved the plan to complete the project report.,DECISION,DEC-09,train
+we approved the plan to draft the user survey.,DECISION,DEC-09,train
+We approved the plan to fix the login page.,DECISION,DEC-09,train
+We approved the plan to deploy the API documentation.,DECISION,DEC-09,train
+We approved the plan to fix the search feature,DECISION,DEC-09,train
+We're going with MongoDB.,DECISION,DEC-10,test
+We're going with Vue.,DECISION,DEC-10,test
+we're going with docker.,DECISION,DEC-10,test
+We're going with SQLite,DECISION,DEC-10,test
+We're going with FastAPI.,DECISION,DEC-10,test
+We're going with Redis.,DECISION,DEC-10,test
+We're going with React.,DECISION,DEC-10,test
+The team agreed to drop Docker.,DECISION,DEC-11,validation
+The team agreed to drop MySQL.,DECISION,DEC-11,validation
+The team agreed to drop React.,DECISION,DEC-11,validation
+The team agreed to drop MongoDB,DECISION,DEC-11,validation
+the team agreed to drop redis.,DECISION,DEC-11,validation
+The team agreed to drop FastAPI.,DECISION,DEC-11,validation
+The team agreed to drop Flask.,DECISION,DEC-11,validation
+Let's move the review to Wednesday.,DECISION,DEC-12,train
+Let's move the review to Monday.,DECISION,DEC-12,train
+Let's move the review to Wednesday,DECISION,DEC-12,train
+Let's move the review to tonight.,DECISION,DEC-12,train
+Let's move the review to next week.,DECISION,DEC-12,train
+Let's move the review to Friday.,DECISION,DEC-12,train
+let's move the review to wednesday.,DECISION,DEC-12,train
+We will use Redis instead of AWS.,DECISION,DEC-13,train
+We will use Flask instead of React.,DECISION,DEC-13,train
+We will use AWS instead of Redis.,DECISION,DEC-13,train
+We will use FastAPI instead of Vue.,DECISION,DEC-13,train
+We will use Vue instead of AWS.,DECISION,DEC-13,train
+We will use Flask instead of SQLite,DECISION,DEC-13,train
+We will use MySQL instead of React.,DECISION,DEC-13,train
+"Everyone agreed, the deadline stays at Friday.",DECISION,DEC-14,train
+"Everyone agreed, the deadline stays at Monday.",DECISION,DEC-14,train
+"everyone agreed, the deadline stays at thursday.",DECISION,DEC-14,train
+"Everyone agreed, the deadline stays at end of day.",DECISION,DEC-14,train
+"Everyone agreed, the deadline stays at tomorrow.",DECISION,DEC-14,train
+"Everyone agreed, the deadline stays at tonight.",DECISION,DEC-14,train
+"Everyone agreed, the deadline stays at Wednesday.",DECISION,DEC-14,train
+"so it's decided, the database schema goes first.",DECISION,DEC-15,train
+"So it's decided, the export feature goes first.",DECISION,DEC-15,train
+"So it's decided, the onboarding flow goes first.",DECISION,DEC-15,train
+"so it's decided, the export feature goes first.",DECISION,DEC-15,train
+"So it's decided, the presentation slides goes first.",DECISION,DEC-15,train
+"so it's decided, the presentation slides goes first.",DECISION,DEC-15,train
+"So it's decided, the landing page goes first.",DECISION,DEC-15,train
+we chose postgresql over redis for frontend.,DECISION,DEC-16,validation
+We chose Vue over React for deployment.,DECISION,DEC-16,validation
+We chose Redis over Flask for deployment,DECISION,DEC-16,validation
+We chose Firebase over SQLite for backend.,DECISION,DEC-16,validation
+We chose AWS over Docker for authentication.,DECISION,DEC-16,validation
+We chose Firebase over AWS for deployment.,DECISION,DEC-16,validation
+we chose react over redis for backend.,DECISION,DEC-16,validation
+Let's stick with MongoDB.,DECISION,DEC-17,validation
+Let's stick with MySQL.,DECISION,DEC-17,validation
+Let's stick with Firebase.,DECISION,DEC-17,validation
+let's stick with sqlite.,DECISION,DEC-17,validation
+Let's stick with Flask.,DECISION,DEC-17,validation
+Let's stick with PostgreSQL.,DECISION,DEC-17,validation
+Let's stick with AWS.,DECISION,DEC-17,validation
+It was agreed that the demo will be on the 14th.,DECISION,DEC-18,validation
+It was agreed that the demo will be on next week.,DECISION,DEC-18,validation
+It was agreed that the demo will be on next week,DECISION,DEC-18,validation
+it was agreed that the demo will be on end of day.,DECISION,DEC-18,validation
+It was agreed that the demo will be on tonight.,DECISION,DEC-18,validation
+It was agreed that the demo will be on Friday.,DECISION,DEC-18,validation
+It was agreed that the demo will be on Thursday.,DECISION,DEC-18,validation
+We'll go with SQLite and revisit later.,DECISION,DEC-19,validation
+We'll go with Vue and revisit later.,DECISION,DEC-19,validation
+We'll go with Redis and revisit later,DECISION,DEC-19,validation
+We'll go with FastAPI and revisit later.,DECISION,DEC-19,validation
+we'll go with aws and revisit later.,DECISION,DEC-19,validation
+We'll go with MySQL and revisit later.,DECISION,DEC-19,validation
+We'll go with React and revisit later.,DECISION,DEC-19,validation
+"Agreed, we are switching to Flask.",DECISION,DEC-20,train
+"Agreed, we are switching to Vue.",DECISION,DEC-20,train
+"Agreed, we are switching to MySQL",DECISION,DEC-20,train
+"Agreed, we are switching to FastAPI.",DECISION,DEC-20,train
+"Agreed, we are switching to AWS.",DECISION,DEC-20,train
+"agreed, we are switching to vue.",DECISION,DEC-20,train
+"agreed, we are switching to mysql.",DECISION,DEC-20,train
+Final call: AWS for backend.,DECISION,DEC-21,train
+Final call: AWS for authentication.,DECISION,DEC-21,train
+Final call: Redis for backend.,DECISION,DEC-21,train
+Final call: MongoDB for testing.,DECISION,DEC-21,train
+Final call: SQLite for deployment.,DECISION,DEC-21,train
+Final call: React for authentication.,DECISION,DEC-21,train
+Final call: FastAPI for documentation.,DECISION,DEC-21,train
+The plan is to launch on Friday.,DECISION,DEC-22,train
+The plan is to launch on tonight,DECISION,DEC-22,train
+The plan is to launch on tonight.,DECISION,DEC-22,train
+The plan is to launch on end of day.,DECISION,DEC-22,train
+The plan is to launch on Friday,DECISION,DEC-22,train
+the plan is to launch on next week.,DECISION,DEC-22,train
+The plan is to launch on next week.,DECISION,DEC-22,train
+We decided to skip the database schema this sprint.,DECISION,DEC-23,train
+We decided to skip the mobile layout this sprint.,DECISION,DEC-23,train
+We decided to skip the user survey this sprint.,DECISION,DEC-23,train
+We decided to skip the login page this sprint.,DECISION,DEC-23,train
+We decided to skip the search feature this sprint.,DECISION,DEC-23,train
+We decided to skip the landing page this sprint.,DECISION,DEC-23,train
+We decided to skip the onboarding flow this sprint.,DECISION,DEC-23,train
+"Okay, decision made, Sriya owns testing",DECISION,DEC-24,test
+"Okay, decision made, Meera owns deployment.",DECISION,DEC-24,test
+"Okay, decision made, Arjun owns testing.",DECISION,DEC-24,test
+"okay, decision made, neha owns backend.",DECISION,DEC-24,test
+"okay, decision made, neha owns documentation.",DECISION,DEC-24,test
+"Okay, decision made, Ananya owns testing.",DECISION,DEC-24,test
+"Okay, decision made, Meera owns frontend.",DECISION,DEC-24,test
+We've decided to postpone the presentation slides until tomorrow.,DECISION,DEC-25,train
+We've decided to postpone the deployment script until end of day.,DECISION,DEC-25,train
+we've decided to postpone the analytics charts until tonight.,DECISION,DEC-25,train
+we've decided to postpone the onboarding flow until monday.,DECISION,DEC-25,train
+We've decided to postpone the unit tests until tonight.,DECISION,DEC-25,train
+We've decided to postpone the login page until end of day.,DECISION,DEC-25,train
+We've decided to postpone the project report until Thursday.,DECISION,DEC-25,train
+let's keep fastapi as the deployment choice.,DECISION,DEC-26,train
+Let's keep Vue as the database choice,DECISION,DEC-26,train
+Let's keep AWS as the documentation choice,DECISION,DEC-26,train
+Let's keep MongoDB as the frontend choice.,DECISION,DEC-26,train
+Let's keep PostgreSQL as the backend choice.,DECISION,DEC-26,train
+Let's keep FastAPI as the backend choice.,DECISION,DEC-26,train
+Let's keep PostgreSQL as the frontend choice.,DECISION,DEC-26,train
+"Decided to use FastAPI, moving on",DECISION,DEC-27,train
+"Decided to use React, moving on",DECISION,DEC-27,train
+"decided to use Flask, moving on",DECISION,DEC-27,train
+"decided to use firebase, moving on",DECISION,DEC-27,train
+"Decided to use Redis, moving on",DECISION,DEC-27,train
+"Decided to use Flask, moving on",DECISION,DEC-27,train
+"decided to use MySQL, moving on",DECISION,DEC-27,train
+"Alright, we are moving forward with MongoDB.",DECISION,DEC-28,validation
+"Alright, we are moving forward with PostgreSQL.",DECISION,DEC-28,validation
+"Alright, we are moving forward with MySQL.",DECISION,DEC-28,validation
+"alright, we are moving forward with mongodb.",DECISION,DEC-28,validation
+"Alright, we are moving forward with React.",DECISION,DEC-28,validation
+"alright, we are moving forward with vue.",DECISION,DEC-28,validation
+"Alright, we are moving forward with Vue.",DECISION,DEC-28,validation
+We settled on MongoDB for deployment.,DECISION,DEC-29,test
+We settled on Flask for authentication.,DECISION,DEC-29,test
+We settled on AWS for database.,DECISION,DEC-29,test
+We settled on MongoDB for documentation.,DECISION,DEC-29,test
+We settled on Vue for database.,DECISION,DEC-29,test
+We settled on AWS for backend.,DECISION,DEC-29,test
+We settled on Firebase for documentation.,DECISION,DEC-29,test
+okay so we're dropping the deployment script from the first release.,DECISION,DEC-30,train
+Okay so we're dropping the data cleaning script from the first release.,DECISION,DEC-30,train
+Okay so we're dropping the onboarding flow from the first release.,DECISION,DEC-30,train
+Okay so we're dropping the analytics charts from the first release,DECISION,DEC-30,train
+Okay so we're dropping the deployment script from the first release.,DECISION,DEC-30,train
+Okay so we're dropping the search feature from the first release.,DECISION,DEC-30,train
+okay so we're dropping the unit tests from the first release.,DECISION,DEC-30,train
+The API is not working.,ISSUE,ISS-00,train
+the search endpoint is not working.,ISSUE,ISS-00,train
+The deployment is not working.,ISSUE,ISS-00,train
+The login page is not working.,ISSUE,ISS-00,train
+the payment module is not working.,ISSUE,ISS-00,train
+the build is not working.,ISSUE,ISS-00,train
+The test suite is not working.,ISSUE,ISS-00,train
+The CI pipeline keeps crashing,ISSUE,ISS-01,train
+the build keeps crashing.,ISSUE,ISS-01,train
+the mobile app keeps crashing.,ISSUE,ISS-01,train
+the API keeps crashing.,ISSUE,ISS-01,train
+the payment module keeps crashing,ISSUE,ISS-01,train
+The database connection keeps crashing.,ISSUE,ISS-01,train
+The build keeps crashing.,ISSUE,ISS-01,train
+We are blocked by the payment module.,ISSUE,ISS-02,train
+we are blocked by the mobile app.,ISSUE,ISS-02,train
+we are blocked by the test suite.,ISSUE,ISS-02,train
+we are blocked by the deployment.,ISSUE,ISS-02,train
+we are blocked by the login page.,ISSUE,ISS-02,train
+we are blocked by the api.,ISSUE,ISS-02,train
+We are blocked by the staging site.,ISSUE,ISS-02,train
+There is a bug in the deployment.,ISSUE,ISS-03,train
+There is a bug in the test suite.,ISSUE,ISS-03,train
+There is a bug in the mobile app.,ISSUE,ISS-03,train
+There is a bug in the search endpoint.,ISSUE,ISS-03,train
+There is a bug in the staging site.,ISSUE,ISS-03,train
+there is a bug in the staging site.,ISSUE,ISS-03,train
+There is a bug in the CI pipeline.,ISSUE,ISS-03,train
+The API is failing with a timeout error.,ISSUE,ISS-04,train
+The deployment is failing with a timeout error,ISSUE,ISS-04,train
+The database connection is failing with a timeout error.,ISSUE,ISS-04,train
+the build is failing with a timeout error.,ISSUE,ISS-04,train
+the deployment is failing with a timeout error.,ISSUE,ISS-04,train
+The staging site is failing with a timeout error,ISSUE,ISS-04,train
+the login page is failing with a timeout error.,ISSUE,ISS-04,train
+The build is delayed because of the vendor.,ISSUE,ISS-05,train
+The API is delayed because of the vendor.,ISSUE,ISS-05,train
+the login page is delayed because of the vendor.,ISSUE,ISS-05,train
+The database connection is delayed because of the vendor.,ISSUE,ISS-05,train
+the test suite is delayed because of the vendor,ISSUE,ISS-05,train
+The staging site is delayed because of the vendor.,ISSUE,ISS-05,train
+The test suite is delayed because of the vendor.,ISSUE,ISS-05,train
+I'm stuck on the login page.,ISSUE,ISS-06,test
+I'm stuck on the staging site.,ISSUE,ISS-06,test
+I'm stuck on the CI pipeline.,ISSUE,ISS-06,test
+I'm stuck on the server.,ISSUE,ISS-06,test
+I'm stuck on the API.,ISSUE,ISS-06,test
+i'm stuck on the staging site.,ISSUE,ISS-06,test
+i'm stuck on the login page.,ISSUE,ISS-06,test
+Testing is blocked because the CI pipeline is broken.,ISSUE,ISS-07,train
+Testing is blocked because the mobile app is broken.,ISSUE,ISS-07,train
+Testing is blocked because the search endpoint is broken,ISSUE,ISS-07,train
+Testing is blocked because the payment module is broken.,ISSUE,ISS-07,train
+testing is blocked because the staging site is broken.,ISSUE,ISS-07,train
+testing is blocked because the deployment is broken.,ISSUE,ISS-07,train
+Testing is blocked because the mobile app is broken,ISSUE,ISS-07,train
+We have a problem with the server.,ISSUE,ISS-08,validation
+We have a problem with the build.,ISSUE,ISS-08,validation
+we have a problem with the build.,ISSUE,ISS-08,validation
+We have a problem with the staging site.,ISSUE,ISS-08,validation
+We have a problem with the payment module.,ISSUE,ISS-08,validation
+We have a problem with the API.,ISSUE,ISS-08,validation
+We have a problem with the mobile app,ISSUE,ISS-08,validation
+The login page is too slow for production.,ISSUE,ISS-09,train
+the staging site is too slow for production.,ISSUE,ISS-09,train
+the api is too slow for production.,ISSUE,ISS-09,train
+the database connection is too slow for production.,ISSUE,ISS-09,train
+the payment module is too slow for production.,ISSUE,ISS-09,train
+The test suite is too slow for production.,ISSUE,ISS-09,train
+the build is too slow for production.,ISSUE,ISS-09,train
+the build failed again because of the mobile app.,ISSUE,ISS-10,train
+The build failed again because of the payment module.,ISSUE,ISS-10,train
+The build failed again because of the build,ISSUE,ISS-10,train
+the build failed again because of the database connection.,ISSUE,ISS-10,train
+The build failed again because of the payment module,ISSUE,ISS-10,train
+The build failed again because of the build.,ISSUE,ISS-10,train
+the build failed again because of the payment module.,ISSUE,ISS-10,train
+the search endpoint throws an error whenever we deploy.,ISSUE,ISS-11,validation
+The API throws an error whenever we deploy.,ISSUE,ISS-11,validation
+The database connection throws an error whenever we deploy.,ISSUE,ISS-11,validation
+The deployment throws an error whenever we deploy.,ISSUE,ISS-11,validation
+The test suite throws an error whenever we deploy.,ISSUE,ISS-11,validation
+The build throws an error whenever we deploy.,ISSUE,ISS-11,validation
+the build throws an error whenever we deploy.,ISSUE,ISS-11,validation
+We are behind schedule on the deployment script.,ISSUE,ISS-12,test
+We are behind schedule on the export feature.,ISSUE,ISS-12,test
+We are behind schedule on the unit tests.,ISSUE,ISS-12,test
+We are behind schedule on the database schema.,ISSUE,ISS-12,test
+We are behind schedule on the API documentation.,ISSUE,ISS-12,test
+We are behind schedule on the onboarding flow.,ISSUE,ISS-12,test
+We are behind schedule on the presentation slides.,ISSUE,ISS-12,test
+The API is still broken after the update.,ISSUE,ISS-13,test
+The build is still broken after the update.,ISSUE,ISS-13,test
+The deployment is still broken after the update.,ISSUE,ISS-13,test
+The staging site is still broken after the update.,ISSUE,ISS-13,test
+The login page is still broken after the update.,ISSUE,ISS-13,test
+the server is still broken after the update.,ISSUE,ISS-13,test
+the payment module is still broken after the update.,ISSUE,ISS-13,test
+i can't access the deployment.,ISSUE,ISS-14,train
+i can't access the mobile app.,ISSUE,ISS-14,train
+I can't access the database connection.,ISSUE,ISS-14,train
+I can't access the server.,ISSUE,ISS-14,train
+I can't access the CI pipeline.,ISSUE,ISS-14,train
+I can't access the login page.,ISSUE,ISS-14,train
+I can't access the database connection,ISSUE,ISS-14,train
+We don't have enough budget for Firebase.,ISSUE,ISS-15,validation
+We don't have enough budget for Redis.,ISSUE,ISS-15,validation
+We don't have enough budget for PostgreSQL.,ISSUE,ISS-15,validation
+We don't have enough budget for AWS.,ISSUE,ISS-15,validation
+We don't have enough budget for SQLite.,ISSUE,ISS-15,validation
+We don't have enough budget for React.,ISSUE,ISS-15,validation
+We don't have enough budget for MySQL.,ISSUE,ISS-15,validation
+The API is a major risk for the release.,ISSUE,ISS-16,validation
+The test suite is a major risk for the release.,ISSUE,ISS-16,validation
+The deployment is a major risk for the release.,ISSUE,ISS-16,validation
+the search endpoint is a major risk for the release.,ISSUE,ISS-16,validation
+The database connection is a major risk for the release.,ISSUE,ISS-16,validation
+The server is a major risk for the release.,ISSUE,ISS-16,validation
+the login page is a major risk for the release,ISSUE,ISS-16,validation
+there's a serious problem with the ci pipeline.,ISSUE,ISS-17,validation
+there's a serious problem with the mobile app.,ISSUE,ISS-17,validation
+There's a serious problem with the payment module,ISSUE,ISS-17,validation
+There's a serious problem with the login page.,ISSUE,ISS-17,validation
+There's a serious problem with the database connection.,ISSUE,ISS-17,validation
+there's a serious problem with the search endpoint.,ISSUE,ISS-17,validation
+There's a serious problem with the staging site.,ISSUE,ISS-17,validation
+The deployment stopped working after the merge.,ISSUE,ISS-18,test
+the build stopped working after the merge.,ISSUE,ISS-18,test
+The deployment stopped working after the merge,ISSUE,ISS-18,test
+the payment module stopped working after the merge.,ISSUE,ISS-18,test
+the deployment stopped working after the merge.,ISSUE,ISS-18,test
+The search endpoint stopped working after the merge.,ISSUE,ISS-18,test
+The test suite stopped working after the merge.,ISSUE,ISS-18,test
+The staging site is returning a 500 error.,ISSUE,ISS-19,train
+The API is returning a 500 error.,ISSUE,ISS-19,train
+the test suite is returning a 500 error.,ISSUE,ISS-19,train
+The test suite is returning a 500 error.,ISSUE,ISS-19,train
+the database connection is returning a 500 error.,ISSUE,ISS-19,train
+The CI pipeline is returning a 500 error.,ISSUE,ISS-19,train
+the CI pipeline is returning a 500 error.,ISSUE,ISS-19,train
+The main concern is that the server might not be ready.,ISSUE,ISS-20,train
+the main concern is that the server might not be ready.,ISSUE,ISS-20,train
+the main concern is that the database connection might not be ready.,ISSUE,ISS-20,train
+The main concern is that the API might not be ready.,ISSUE,ISS-20,train
+The main concern is that the database connection might not be ready.,ISSUE,ISS-20,train
+The main concern is that the build might not be ready,ISSUE,ISS-20,train
+The main concern is that the test suite might not be ready.,ISSUE,ISS-20,train
+The deployment is running late.,ISSUE,ISS-21,validation
+the search endpoint is running late.,ISSUE,ISS-21,validation
+the payment module is running late.,ISSUE,ISS-21,validation
+the test suite is running late.,ISSUE,ISS-21,validation
+The API is running late.,ISSUE,ISS-21,validation
+The login page is running late.,ISSUE,ISS-21,validation
+the staging site is running late,ISSUE,ISS-21,validation
+The client is unhappy with the search endpoint.,ISSUE,ISS-22,train
+the client is unhappy with the ci pipeline.,ISSUE,ISS-22,train
+The client is unhappy with the staging site,ISSUE,ISS-22,train
+The client is unhappy with the database connection.,ISSUE,ISS-22,train
+The client is unhappy with the staging site.,ISSUE,ISS-22,train
+The client is unhappy with the payment module.,ISSUE,ISS-22,train
+The client is unhappy with the deployment.,ISSUE,ISS-22,train
+The mobile app won't load on mobile.,ISSUE,ISS-23,train
+The deployment won't load on mobile.,ISSUE,ISS-23,train
+the login page won't load on mobile.,ISSUE,ISS-23,train
+The search endpoint won't load on mobile.,ISSUE,ISS-23,train
+the server won't load on mobile.,ISSUE,ISS-23,train
+the ci pipeline won't load on mobile.,ISSUE,ISS-23,train
+the test suite won't load on mobile.,ISSUE,ISS-23,train
+The API is still failing.,ISSUE,ISS-24,test
+the test suite is still failing.,ISSUE,ISS-24,test
+The test suite is still failing.,ISSUE,ISS-24,test
+The staging site is still failing.,ISSUE,ISS-24,test
+the server is still failing.,ISSUE,ISS-24,test
+The mobile app is still failing.,ISSUE,ISS-24,test
+the staging site is still failing.,ISSUE,ISS-24,test
+We still have a memory leak in the deployment.,ISSUE,ISS-25,train
+We still have a memory leak in the mobile app,ISSUE,ISS-25,train
+We still have a memory leak in the payment module.,ISSUE,ISS-25,train
+We still have a memory leak in the database connection.,ISSUE,ISS-25,train
+We still have a memory leak in the mobile app.,ISSUE,ISS-25,train
+We still have a memory leak in the search endpoint.,ISSUE,ISS-25,train
+we still have a memory leak in the payment module.,ISSUE,ISS-25,train
+nobody has access to the ci pipeline.,ISSUE,ISS-26,train
+Nobody has access to the CI pipeline.,ISSUE,ISS-26,train
+Nobody has access to the payment module,ISSUE,ISS-26,train
+Nobody has access to the API.,ISSUE,ISS-26,train
+Nobody has access to the API,ISSUE,ISS-26,train
+Nobody has access to the login page.,ISSUE,ISS-26,train
+Nobody has access to the build.,ISSUE,ISS-26,train
+The login page is timing out under load.,ISSUE,ISS-27,train
+The test suite is timing out under load.,ISSUE,ISS-27,train
+the search endpoint is timing out under load.,ISSUE,ISS-27,train
+The API is timing out under load.,ISSUE,ISS-27,train
+the deployment is timing out under load.,ISSUE,ISS-27,train
+The search endpoint is timing out under load.,ISSUE,ISS-27,train
+the database connection is timing out under load.,ISSUE,ISS-27,train
+The search feature is blocked until the staging site is fixed.,ISSUE,ISS-28,test
+The deployment script is blocked until the deployment is fixed.,ISSUE,ISS-28,test
+the landing page is blocked until the login page is fixed.,ISSUE,ISS-28,test
+The API documentation is blocked until the server is fixed.,ISSUE,ISS-28,test
+The export feature is blocked until the build is fixed.,ISSUE,ISS-28,test
+The mobile layout is blocked until the mobile app is fixed.,ISSUE,ISS-28,test
+The presentation slides is blocked until the build is fixed.,ISSUE,ISS-28,test
+"the backend is a mess right now, nothing works",ISSUE,ISS-29,train
+"the documentation is a mess right now, nothing works",ISSUE,ISS-29,train
+"The authentication is a mess right now, nothing works",ISSUE,ISS-29,train
+"the testing is a mess right now, nothing works",ISSUE,ISS-29,train
+"the frontend is a mess right now, nothing works",ISSUE,ISS-29,train
+"The deployment is a mess right now, nothing works",ISSUE,ISS-29,train
+"The backend is a mess right now, nothing works",ISSUE,ISS-29,train
+Maybe we should use Flask for database.,SUGGESTION,SUG-00,train
+Maybe we should use Vue for documentation.,SUGGESTION,SUG-00,train
+Maybe we should use Flask for frontend.,SUGGESTION,SUG-00,train
+Maybe we should use Docker for backend.,SUGGESTION,SUG-00,train
+Maybe we should use Redis for deployment,SUGGESTION,SUG-00,train
+Maybe we should use MongoDB for deployment.,SUGGESTION,SUG-00,train
+Maybe we should use Redis for authentication.,SUGGESTION,SUG-00,train
+What if we fix the search feature earlier?,SUGGESTION,SUG-01,train
+What if we draft the user survey earlier?,SUGGESTION,SUG-01,train
+what if we check the export feature earlier?,SUGGESTION,SUG-01,train
+What if we update the project report earlier,SUGGESTION,SUG-01,train
+What if we check the login page earlier?,SUGGESTION,SUG-01,train
+What if we fix the data cleaning script earlier?,SUGGESTION,SUG-01,train
+What if we send the payment module earlier,SUGGESTION,SUG-01,train
+could we try mysql instead?,SUGGESTION,SUG-02,test
+Could we try Firebase instead?,SUGGESTION,SUG-02,test
+Could we try Vue instead?,SUGGESTION,SUG-02,test
+could we try fastapi instead?,SUGGESTION,SUG-02,test
+Could we try React instead?,SUGGESTION,SUG-02,test
+Could we try SQLite instead?,SUGGESTION,SUG-02,test
+Could we try AWS instead?,SUGGESTION,SUG-02,test
+I suggest we test the dashboard before the 14th.,SUGGESTION,SUG-03,train
+I suggest we test the data cleaning script before Thursday.,SUGGESTION,SUG-03,train
+I suggest we update the project report before Thursday.,SUGGESTION,SUG-03,train
+I suggest we check the export feature before end of day.,SUGGESTION,SUG-03,train
+I suggest we review the database schema before Wednesday.,SUGGESTION,SUG-03,train
+I suggest we test the project report before Wednesday.,SUGGESTION,SUG-03,train
+I suggest we finish the database schema before tomorrow.,SUGGESTION,SUG-03,train
+perhaps kiran could send the project report.,SUGGESTION,SUG-04,test
+Perhaps Ananya could write the search feature.,SUGGESTION,SUG-04,test
+Perhaps Vikram could test the data cleaning script.,SUGGESTION,SUG-04,test
+Perhaps Neha could review the API documentation.,SUGGESTION,SUG-04,test
+Perhaps Neha could check the analytics charts,SUGGESTION,SUG-04,test
+Perhaps Priya could fix the deployment script.,SUGGESTION,SUG-04,test
+perhaps arjun could deploy the presentation slides.,SUGGESTION,SUG-04,test
+how about using redis for testing?,SUGGESTION,SUG-05,train
+How about using Docker for frontend?,SUGGESTION,SUG-05,train
+How about using PostgreSQL for database?,SUGGESTION,SUG-05,train
+How about using MySQL for backend?,SUGGESTION,SUG-05,train
+How about using AWS for frontend?,SUGGESTION,SUG-05,train
+How about using Firebase for database?,SUGGESTION,SUG-05,train
+How about using FastAPI for deployment?,SUGGESTION,SUG-05,train
+We could split the presentation slides into two parts.,SUGGESTION,SUG-06,train
+We could split the onboarding flow into two parts.,SUGGESTION,SUG-06,train
+we could split the presentation slides into two parts.,SUGGESTION,SUG-06,train
+we could split the onboarding flow into two parts.,SUGGESTION,SUG-06,train
+We could split the payment module into two parts.,SUGGESTION,SUG-06,train
+We could split the landing page into two parts.,SUGGESTION,SUG-06,train
+We could split the mobile layout into two parts.,SUGGESTION,SUG-06,train
+Why don't we move the review to next week?,SUGGESTION,SUG-07,train
+Why don't we move the review to the 14th?,SUGGESTION,SUG-07,train
+why don't we move the review to the 14th?,SUGGESTION,SUG-07,train
+Why don't we move the review to end of day?,SUGGESTION,SUG-07,train
+Why don't we move the review to Thursday?,SUGGESTION,SUG-07,train
+Why don't we move the review to Monday?,SUGGESTION,SUG-07,train
+Why don't we move the review to tomorrow?,SUGGESTION,SUG-07,train
+It might be better to use FastAPI,SUGGESTION,SUG-08,train
+it might be better to use sqlite.,SUGGESTION,SUG-08,train
+It might be better to use React.,SUGGESTION,SUG-08,train
+It might be better to use Docker.,SUGGESTION,SUG-08,train
+It might be better to use FastAPI.,SUGGESTION,SUG-08,train
+it might be better to use react.,SUGGESTION,SUG-08,train
+It might be better to use SQLite.,SUGGESTION,SUG-08,train
+Should we consider FastAPI for backend?,SUGGESTION,SUG-09,test
+Should we consider FastAPI for testing?,SUGGESTION,SUG-09,test
+Should we consider SQLite for backend?,SUGGESTION,SUG-09,test
+Should we consider Redis for deployment?,SUGGESTION,SUG-09,test
+Should we consider Redis for documentation,SUGGESTION,SUG-09,test
+Should we consider Firebase for testing,SUGGESTION,SUG-09,test
+Should we consider React for authentication?,SUGGESTION,SUG-09,test
+I think we should add the project report.,SUGGESTION,SUG-10,test
+I think we should add the payment module.,SUGGESTION,SUG-10,test
+I think we should add the user survey,SUGGESTION,SUG-10,test
+i think we should add the onboarding flow.,SUGGESTION,SUG-10,test
+I think we should add the payment module,SUGGESTION,SUG-10,test
+I think we should add the project report,SUGGESTION,SUG-10,test
+I think we should add the database schema.,SUGGESTION,SUG-10,test
+One option is to use MongoDB here.,SUGGESTION,SUG-11,test
+One option is to use FastAPI here.,SUGGESTION,SUG-11,test
+One option is to use PostgreSQL here.,SUGGESTION,SUG-11,test
+One option is to use Flask here.,SUGGESTION,SUG-11,test
+One option is to use React here.,SUGGESTION,SUG-11,test
+One option is to use Docker here.,SUGGESTION,SUG-11,test
+One option is to use MySQL here.,SUGGESTION,SUG-11,test
+"Alternatively, we could outsource the presentation slides.",SUGGESTION,SUG-12,train
+"Alternatively, we could outsource the login page.",SUGGESTION,SUG-12,train
+"Alternatively, we could outsource the analytics charts.",SUGGESTION,SUG-12,train
+"alternatively, we could outsource the export feature.",SUGGESTION,SUG-12,train
+"Alternatively, we could outsource the user survey.",SUGGESTION,SUG-12,train
+"Alternatively, we could outsource the landing page.",SUGGESTION,SUG-12,train
+"Alternatively, we could outsource the project report.",SUGGESTION,SUG-12,train
+What about trying Redis?,SUGGESTION,SUG-13,test
+What about trying AWS?,SUGGESTION,SUG-13,test
+what about trying mongodb?,SUGGESTION,SUG-13,test
+what about trying redis?,SUGGESTION,SUG-13,test
+What about trying Flask?,SUGGESTION,SUG-13,test
+What about trying PostgreSQL?,SUGGESTION,SUG-13,test
+what about trying flask?,SUGGESTION,SUG-13,test
+Maybe we can finish the user survey together,SUGGESTION,SUG-14,validation
+Maybe we can draft the presentation slides together,SUGGESTION,SUG-14,validation
+maybe we can test the dashboard together,SUGGESTION,SUG-14,validation
+Maybe we can check the unit tests together,SUGGESTION,SUG-14,validation
+Maybe we can check the payment module together,SUGGESTION,SUG-14,validation
+Maybe we can fix the project report together,SUGGESTION,SUG-14,validation
+maybe we can update the payment module together,SUGGESTION,SUG-14,validation
+We might want to fix the deployment script sooner.,SUGGESTION,SUG-15,train
+we might want to send the presentation slides sooner.,SUGGESTION,SUG-15,train
+We might want to deploy the onboarding flow sooner.,SUGGESTION,SUG-15,train
+We might want to check the dashboard sooner.,SUGGESTION,SUG-15,train
+We might want to prepare the analytics charts sooner.,SUGGESTION,SUG-15,train
+we might want to update the api documentation sooner.,SUGGESTION,SUG-15,train
+We might want to check the analytics charts sooner.,SUGGESTION,SUG-15,train
+I propose we meet on tonight to check the login page,SUGGESTION,SUG-16,train
+I propose we meet on tomorrow to test the analytics charts.,SUGGESTION,SUG-16,train
+I propose we meet on next week to write the database schema,SUGGESTION,SUG-16,train
+I propose we meet on Wednesday to test the onboarding flow.,SUGGESTION,SUG-16,train
+I propose we meet on Wednesday to write the mobile layout.,SUGGESTION,SUG-16,train
+I propose we meet on Monday to test the export feature.,SUGGESTION,SUG-16,train
+I propose we meet on end of day to fix the export feature.,SUGGESTION,SUG-16,train
+Would it be better to use PostgreSQL instead of Firebase?,SUGGESTION,SUG-17,validation
+Would it be better to use MongoDB instead of Docker?,SUGGESTION,SUG-17,validation
+would it be better to use redis instead of firebase?,SUGGESTION,SUG-17,validation
+Would it be better to use SQLite instead of MySQL?,SUGGESTION,SUG-17,validation
+Would it be better to use Redis instead of Firebase?,SUGGESTION,SUG-17,validation
+Would it be better to use Docker instead of PostgreSQL?,SUGGESTION,SUG-17,validation
+Would it be better to use MongoDB instead of AWS,SUGGESTION,SUG-17,validation
+Perhaps we can postpone the API documentation.,SUGGESTION,SUG-18,train
+Perhaps we can postpone the analytics charts.,SUGGESTION,SUG-18,train
+Perhaps we can postpone the dashboard,SUGGESTION,SUG-18,train
+perhaps we can postpone the user survey.,SUGGESTION,SUG-18,train
+Perhaps we can postpone the search feature.,SUGGESTION,SUG-18,train
+Perhaps we can postpone the database schema.,SUGGESTION,SUG-18,train
+perhaps we can postpone the export feature.,SUGGESTION,SUG-18,train
+I'd suggest starting with the search feature.,SUGGESTION,SUG-19,train
+i'd suggest starting with the project report.,SUGGESTION,SUG-19,train
+I'd suggest starting with the export feature.,SUGGESTION,SUG-19,train
+I'd suggest starting with the user survey,SUGGESTION,SUG-19,train
+I'd suggest starting with the analytics charts.,SUGGESTION,SUG-19,train
+I'd suggest starting with the dashboard.,SUGGESTION,SUG-19,train
+I'd suggest starting with the search feature,SUGGESTION,SUG-19,train
+It could help if Ananya reviews the login page,SUGGESTION,SUG-20,validation
+It could help if Sriya reviews the onboarding flow.,SUGGESTION,SUG-20,validation
+It could help if Dev reviews the onboarding flow.,SUGGESTION,SUG-20,validation
+it could help if dev reviews the project report.,SUGGESTION,SUG-20,validation
+It could help if Ananya reviews the API documentation.,SUGGESTION,SUG-20,validation
+it could help if priya reviews the login page.,SUGGESTION,SUG-20,validation
+It could help if Sriya reviews the user survey.,SUGGESTION,SUG-20,validation
+We can also try MongoDB for testing,SUGGESTION,SUG-21,train
+We can also try Flask for frontend.,SUGGESTION,SUG-21,train
+We can also try React for frontend,SUGGESTION,SUG-21,train
+we can also try firebase for frontend.,SUGGESTION,SUG-21,train
+We can also try AWS for backend.,SUGGESTION,SUG-21,train
+We can also try FastAPI for database.,SUGGESTION,SUG-21,train
+we can also try sqlite for testing.,SUGGESTION,SUG-21,train
+Let's consider SQLite.,SUGGESTION,SUG-22,validation
+Let's consider Flask.,SUGGESTION,SUG-22,validation
+Let's consider AWS,SUGGESTION,SUG-22,validation
+let's consider vue.,SUGGESTION,SUG-22,validation
+Let's consider MongoDB.,SUGGESTION,SUG-22,validation
+let's consider fastapi.,SUGGESTION,SUG-22,validation
+Let's consider React.,SUGGESTION,SUG-22,validation
+Why not use Redis?,SUGGESTION,SUG-23,train
+Why not use SQLite?,SUGGESTION,SUG-23,train
+Why not use Docker,SUGGESTION,SUG-23,train
+Why not use AWS?,SUGGESTION,SUG-23,train
+Why not use FastAPI?,SUGGESTION,SUG-23,train
+Why not use MongoDB,SUGGESTION,SUG-23,train
+why not use mongodb?,SUGGESTION,SUG-23,train
+Maybe Meera can pair with me on the landing page.,SUGGESTION,SUG-24,train
+Maybe Rahul can pair with me on the unit tests,SUGGESTION,SUG-24,train
+Maybe Ananya can pair with me on the deployment script.,SUGGESTION,SUG-24,train
+maybe vikram can pair with me on the data cleaning script.,SUGGESTION,SUG-24,train
+maybe priya can pair with me on the unit tests.,SUGGESTION,SUG-24,train
+Maybe Meera can pair with me on the data cleaning script.,SUGGESTION,SUG-24,train
+Maybe Arjun can pair with me on the user survey.,SUGGESTION,SUG-24,train
+an idea: we fix the onboarding flow using React,SUGGESTION,SUG-25,validation
+an idea: we draft the user survey using Flask,SUGGESTION,SUG-25,validation
+an idea: we complete the project report using SQLite,SUGGESTION,SUG-25,validation
+an idea: we update the database schema using Firebase,SUGGESTION,SUG-25,validation
+an idea: we check the landing page using fastapi,SUGGESTION,SUG-25,validation
+an idea: we complete the dashboard using Flask,SUGGESTION,SUG-25,validation
+An idea: we prepare the payment module using MongoDB,SUGGESTION,SUG-25,validation
+worth considering mysql for documentation.,SUGGESTION,SUG-26,train
+Worth considering Docker for backend.,SUGGESTION,SUG-26,train
+worth considering mysql for testing.,SUGGESTION,SUG-26,train
+Worth considering Firebase for frontend.,SUGGESTION,SUG-26,train
+Worth considering Flask for frontend.,SUGGESTION,SUG-26,train
+Worth considering MongoDB for backend.,SUGGESTION,SUG-26,train
+worth considering flask for testing.,SUGGESTION,SUG-26,train
+Perhaps we should send the project report first.,SUGGESTION,SUG-27,train
+Perhaps we should complete the login page first.,SUGGESTION,SUG-27,train
+Perhaps we should fix the presentation slides first.,SUGGESTION,SUG-27,train
+Perhaps we should draft the payment module first.,SUGGESTION,SUG-27,train
+Perhaps we should fix the login page first.,SUGGESTION,SUG-27,train
+Perhaps we should send the deployment script first.,SUGGESTION,SUG-27,train
+Perhaps we should fix the project report first,SUGGESTION,SUG-27,train
+do you think we could drop postgresql?,SUGGESTION,SUG-28,validation
+Do you think we could drop Flask?,SUGGESTION,SUG-28,validation
+Do you think we could drop MongoDB?,SUGGESTION,SUG-28,validation
+Do you think we could drop PostgreSQL?,SUGGESTION,SUG-28,validation
+do you think we could drop mongodb?,SUGGESTION,SUG-28,validation
+Do you think we could drop PostgreSQL,SUGGESTION,SUG-28,validation
+do you think we could drop react?,SUGGESTION,SUG-28,validation
+maybe use Docker here?,SUGGESTION,SUG-29,train
+Maybe use MongoDB here?,SUGGESTION,SUG-29,train
+Maybe use Firebase here?,SUGGESTION,SUG-29,train
+Maybe use SQLite here?,SUGGESTION,SUG-29,train
+maybe use fastapi here?,SUGGESTION,SUG-29,train
+Maybe use Firebase here,SUGGESTION,SUG-29,train
+Maybe use MySQL here?,SUGGESTION,SUG-29,train
+The presentation slides is ready.,INFORMATION,INF-00,train
+the export feature is ready.,INFORMATION,INF-00,train
+the payment module is ready.,INFORMATION,INF-00,train
+the presentation slides is ready.,INFORMATION,INF-00,train
+The data cleaning script is ready,INFORMATION,INF-00,train
+the dashboard is ready,INFORMATION,INF-00,train
+the analytics charts is ready.,INFORMATION,INF-00,train
+The meeting starts at two.,INFORMATION,INF-01,train
+the meeting starts at two.,INFORMATION,INF-01,train
+The meeting starts at four.,INFORMATION,INF-01,train
+The meeting starts at eleven thirty,INFORMATION,INF-01,train
+The meeting starts at ten.,INFORMATION,INF-01,train
+The meeting starts at two,INFORMATION,INF-01,train
+The meeting starts at eleven thirty.,INFORMATION,INF-01,train
+the frontend uses mysql.,INFORMATION,INF-02,validation
+the testing uses sqlite.,INFORMATION,INF-02,validation
+The documentation uses SQLite.,INFORMATION,INF-02,validation
+the database uses aws.,INFORMATION,INF-02,validation
+The deployment uses Firebase.,INFORMATION,INF-02,validation
+the testing uses flask.,INFORMATION,INF-02,validation
+The database uses Flask,INFORMATION,INF-02,validation
+The project has twelve team members.,INFORMATION,INF-03,train
+The project has three team members.,INFORMATION,INF-03,train
+The project has five team members.,INFORMATION,INF-03,train
+the project has five team members.,INFORMATION,INF-03,train
+The project has eight team members,INFORMATION,INF-03,train
+The project has four team members.,INFORMATION,INF-03,train
+the project has ten team members.,INFORMATION,INF-03,train
+the server is running on MySQL.,INFORMATION,INF-04,train
+The test suite is running on Redis.,INFORMATION,INF-04,train
+The payment module is running on Redis,INFORMATION,INF-04,train
+The API is running on AWS.,INFORMATION,INF-04,train
+The staging site is running on Vue.,INFORMATION,INF-04,train
+The search endpoint is running on AWS.,INFORMATION,INF-04,train
+The database connection is running on Redis.,INFORMATION,INF-04,train
+The database contains eight tables,INFORMATION,INF-05,train
+The database contains six tables.,INFORMATION,INF-05,train
+The database contains twelve tables.,INFORMATION,INF-05,train
+The database contains four tables.,INFORMATION,INF-05,train
+The database contains twelve tables,INFORMATION,INF-05,train
+The database contains three tables.,INFORMATION,INF-05,train
+the database contains ten tables.,INFORMATION,INF-05,train
+Ananya joined the project last month.,INFORMATION,INF-06,train
+Vikram joined the project last month,INFORMATION,INF-06,train
+Meera joined the project last month.,INFORMATION,INF-06,train
+Kiran joined the project last month.,INFORMATION,INF-06,train
+Vikram joined the project last month.,INFORMATION,INF-06,train
+Arjun joined the project last month,INFORMATION,INF-06,train
+Rahul joined the project last month.,INFORMATION,INF-06,train
+i finished the deployment script yesterday.,INFORMATION,INF-07,train
+i finished the data cleaning script yesterday.,INFORMATION,INF-07,train
+I finished the API documentation yesterday.,INFORMATION,INF-07,train
+I finished the dashboard yesterday.,INFORMATION,INF-07,train
+I finished the login page yesterday.,INFORMATION,INF-07,train
+I finished the unit tests yesterday.,INFORMATION,INF-07,train
+I finished the dashboard yesterday,INFORMATION,INF-07,train
+the demo is on tomorrow.,INFORMATION,INF-08,train
+The demo is on Monday,INFORMATION,INF-08,train
+The demo is on Wednesday,INFORMATION,INF-08,train
+The demo is on Friday.,INFORMATION,INF-08,train
+the demo is on end of day.,INFORMATION,INF-08,train
+The demo is on Wednesday.,INFORMATION,INF-08,train
+The demo is on tonight,INFORMATION,INF-08,train
+We have eight open tickets.,INFORMATION,INF-09,train
+we have six open tickets.,INFORMATION,INF-09,train
+We have six open tickets.,INFORMATION,INF-09,train
+We have three open tickets.,INFORMATION,INF-09,train
+we have four open tickets.,INFORMATION,INF-09,train
+we have eight open tickets.,INFORMATION,INF-09,train
+we have five open tickets.,INFORMATION,INF-09,train
+The client is based in Mumbai.,INFORMATION,INF-10,train
+the client is based in mumbai.,INFORMATION,INF-10,train
+The client is based in Mumbai,INFORMATION,INF-10,train
+The last release went out on tonight.,INFORMATION,INF-11,validation
+The last release went out on end of day.,INFORMATION,INF-11,validation
+the last release went out on end of day.,INFORMATION,INF-11,validation
+The last release went out on tomorrow.,INFORMATION,INF-11,validation
+The last release went out on Wednesday.,INFORMATION,INF-11,validation
+The last release went out on tonight,INFORMATION,INF-11,validation
+The last release went out on Thursday.,INFORMATION,INF-11,validation
+the data cleaning script was completed last sprint.,INFORMATION,INF-12,train
+the analytics charts was completed last sprint.,INFORMATION,INF-12,train
+the landing page was completed last sprint.,INFORMATION,INF-12,train
+The presentation slides was completed last sprint.,INFORMATION,INF-12,train
+The API documentation was completed last sprint.,INFORMATION,INF-12,train
+the export feature was completed last sprint.,INFORMATION,INF-12,train
+the onboarding flow was completed last sprint.,INFORMATION,INF-12,train
+Our current stack is AWS and React.,INFORMATION,INF-13,train
+Our current stack is Vue and SQLite.,INFORMATION,INF-13,train
+Our current stack is React and Firebase.,INFORMATION,INF-13,train
+Our current stack is React and Docker.,INFORMATION,INF-13,train
+Our current stack is Vue and PostgreSQL.,INFORMATION,INF-13,train
+Our current stack is Firebase and PostgreSQL.,INFORMATION,INF-13,train
+Our current stack is PostgreSQL and Redis.,INFORMATION,INF-13,train
+Ananya is on leave until Wednesday.,INFORMATION,INF-14,train
+Ananya is on leave until tomorrow.,INFORMATION,INF-14,train
+kiran is on leave until friday.,INFORMATION,INF-14,train
+Arjun is on leave until Wednesday.,INFORMATION,INF-14,train
+Priya is on leave until tomorrow,INFORMATION,INF-14,train
+Meera is on leave until Wednesday.,INFORMATION,INF-14,train
+Dev is on leave until tomorrow.,INFORMATION,INF-14,train
+The server has five gigabytes of memory.,INFORMATION,INF-15,train
+the server has five gigabytes of memory.,INFORMATION,INF-15,train
+The server has six gigabytes of memory.,INFORMATION,INF-15,train
+The server has four gigabytes of memory.,INFORMATION,INF-15,train
+the server has six gigabytes of memory.,INFORMATION,INF-15,train
+The server has three gigabytes of memory.,INFORMATION,INF-15,train
+The server has ten gigabytes of memory.,INFORMATION,INF-15,train
+The sprint ends on Friday.,INFORMATION,INF-16,test
+The sprint ends on tomorrow.,INFORMATION,INF-16,test
+The sprint ends on the 14th.,INFORMATION,INF-16,test
+The sprint ends on end of day.,INFORMATION,INF-16,test
+The sprint ends on next week.,INFORMATION,INF-16,test
+the sprint ends on next week.,INFORMATION,INF-16,test
+The sprint ends on tonight,INFORMATION,INF-16,test
+The report covers frontend and deployment.,INFORMATION,INF-17,validation
+The report covers testing and deployment.,INFORMATION,INF-17,validation
+the report covers testing and documentation.,INFORMATION,INF-17,validation
+The report covers documentation and deployment.,INFORMATION,INF-17,validation
+the report covers testing and authentication.,INFORMATION,INF-17,validation
+The report covers deployment and frontend,INFORMATION,INF-17,validation
+the report covers database and frontend.,INFORMATION,INF-17,validation
+I updated the API documentation this morning.,INFORMATION,INF-18,test
+I updated the search feature this morning.,INFORMATION,INF-18,test
+I updated the onboarding flow this morning.,INFORMATION,INF-18,test
+I updated the login page this morning.,INFORMATION,INF-18,test
+i updated the export feature this morning.,INFORMATION,INF-18,test
+i updated the onboarding flow this morning.,INFORMATION,INF-18,test
+I updated the database schema this morning.,INFORMATION,INF-18,test
+The test coverage is around three percent.,INFORMATION,INF-19,validation
+the test coverage is around five percent.,INFORMATION,INF-19,validation
+The test coverage is around twelve percent.,INFORMATION,INF-19,validation
+The test coverage is around five percent.,INFORMATION,INF-19,validation
+the test coverage is around six percent.,INFORMATION,INF-19,validation
+The test coverage is around ten percent,INFORMATION,INF-19,validation
+The test coverage is around three percent,INFORMATION,INF-19,validation
+The database connection is deployed on Docker.,INFORMATION,INF-20,test
+The payment module is deployed on AWS.,INFORMATION,INF-20,test
+The deployment is deployed on Firebase.,INFORMATION,INF-20,test
+The deployment is deployed on Vue.,INFORMATION,INF-20,test
+the search endpoint is deployed on AWS.,INFORMATION,INF-20,test
+The database connection is deployed on Redis.,INFORMATION,INF-20,test
+The test suite is deployed on Redis.,INFORMATION,INF-20,test
+the call today is about testing.,INFORMATION,INF-21,train
+The call today is about deployment.,INFORMATION,INF-21,train
+The call today is about authentication.,INFORMATION,INF-21,train
+The call today is about backend.,INFORMATION,INF-21,train
+The call today is about documentation.,INFORMATION,INF-21,train
+The call today is about frontend.,INFORMATION,INF-21,train
+the call today is about database.,INFORMATION,INF-21,train
+That is the end of the first section.,INFORMATION,INF-22,validation
+that is the end of the first section.,INFORMATION,INF-22,validation
+That is the end of the first section,INFORMATION,INF-22,validation
+We have been using Firebase since last year.,INFORMATION,INF-23,test
+We have been using MySQL since last year,INFORMATION,INF-23,test
+We have been using Docker since last year.,INFORMATION,INF-23,test
+We have been using Vue since last year.,INFORMATION,INF-23,test
+We have been using SQLite since last year.,INFORMATION,INF-23,test
+We have been using FastAPI since last year.,INFORMATION,INF-23,test
+We have been using AWS since last year.,INFORMATION,INF-23,test
+okay thanks everyone,INFORMATION,INF-24,test
+Okay thanks everyone,INFORMATION,INF-24,test
+yeah that makes sense,INFORMATION,INF-25,train
+Yeah that makes sense,INFORMATION,INF-25,train
+Last week we covered deployment,INFORMATION,INF-26,train
+last week we covered backend.,INFORMATION,INF-26,train
+Last week we covered testing,INFORMATION,INF-26,train
+Last week we covered testing.,INFORMATION,INF-26,train
+last week we covered frontend.,INFORMATION,INF-26,train
+Last week we covered frontend.,INFORMATION,INF-26,train
+last week we covered documentation.,INFORMATION,INF-26,train
+Ananya presented the deployment update.,INFORMATION,INF-27,validation
+Rahul presented the authentication update.,INFORMATION,INF-27,validation
+Meera presented the documentation update.,INFORMATION,INF-27,validation
+Vikram presented the deployment update.,INFORMATION,INF-27,validation
+Kiran presented the authentication update.,INFORMATION,INF-27,validation
+Priya presented the backend update.,INFORMATION,INF-27,validation
+Dev presented the testing update.,INFORMATION,INF-27,validation
+"Right, so that covers the agenda.",INFORMATION,INF-28,train
+"right, so that covers the agenda.",INFORMATION,INF-28,train
+"Right, so that covers the agenda",INFORMATION,INF-28,train
+Good morning everyone,INFORMATION,INF-29,test
+good morning everyone,INFORMATION,INF-29,test
+what is the status of the unit tests?,QUESTION,QUE-00,test
+what is the status of the mobile layout?,QUESTION,QUE-00,test
+what is the status of the api documentation?,QUESTION,QUE-00,test
+What is the status of the export feature?,QUESTION,QUE-00,test
+What is the status of the API documentation?,QUESTION,QUE-00,test
+What is the status of the data cleaning script,QUESTION,QUE-00,test
+What is the status of the user survey,QUESTION,QUE-00,test
+who is working on the dashboard?,QUESTION,QUE-01,train
+Who is working on the API documentation?,QUESTION,QUE-01,train
+who is working on the data cleaning script?,QUESTION,QUE-01,train
+Who is working on the mobile layout?,QUESTION,QUE-01,train
+who is working on the unit tests?,QUESTION,QUE-01,train
+Who is working on the unit tests?,QUESTION,QUE-01,train
+Who is working on the export feature?,QUESTION,QUE-01,train
+When is the unit tests due?,QUESTION,QUE-02,test
+when is the presentation slides due?,QUESTION,QUE-02,test
+When is the export feature due?,QUESTION,QUE-02,test
+When is the deployment script due?,QUESTION,QUE-02,test
+when is the analytics charts due?,QUESTION,QUE-02,test
+When is the data cleaning script due?,QUESTION,QUE-02,test
+When is the analytics charts due?,QUESTION,QUE-02,test
+Is the login page working now?,QUESTION,QUE-03,train
+Is the deployment working now,QUESTION,QUE-03,train
+Is the API working now?,QUESTION,QUE-03,train
+Is the server working now?,QUESTION,QUE-03,train
+Is the mobile app working now?,QUESTION,QUE-03,train
+Is the test suite working now?,QUESTION,QUE-03,train
+is the staging site working now?,QUESTION,QUE-03,train
+Do we have access to React?,QUESTION,QUE-04,train
+do we have access to vue?,QUESTION,QUE-04,train
+Do we have access to Docker,QUESTION,QUE-04,train
+do we have access to postgresql?,QUESTION,QUE-04,train
+Do we have access to MySQL?,QUESTION,QUE-04,train
+Do we have access to AWS?,QUESTION,QUE-04,train
+Do we have access to PostgreSQL?,QUESTION,QUE-04,train
+Did Meera finish the mobile layout?,QUESTION,QUE-05,test
+Did Dev finish the deployment script?,QUESTION,QUE-05,test
+Did Dev finish the onboarding flow?,QUESTION,QUE-05,test
+Did Dev finish the API documentation?,QUESTION,QUE-05,test
+Did Sriya finish the login page?,QUESTION,QUE-05,test
+Did Arjun finish the data cleaning script?,QUESTION,QUE-05,test
+did dev finish the export feature?,QUESTION,QUE-05,test
+Which authentication framework are we using?,QUESTION,QUE-06,validation
+which documentation framework are we using?,QUESTION,QUE-06,validation
+Which frontend framework are we using?,QUESTION,QUE-06,validation
+Which testing framework are we using?,QUESTION,QUE-06,validation
+which database framework are we using?,QUESTION,QUE-06,validation
+Which documentation framework are we using?,QUESTION,QUE-06,validation
+Which deployment framework are we using,QUESTION,QUE-06,validation
+How long will the mobile layout take?,QUESTION,QUE-07,train
+How long will the mobile layout take,QUESTION,QUE-07,train
+how long will the project report take?,QUESTION,QUE-07,train
+How long will the login page take,QUESTION,QUE-07,train
+How long will the database schema take?,QUESTION,QUE-07,train
+How long will the analytics charts take?,QUESTION,QUE-07,train
+How long will the API documentation take?,QUESTION,QUE-07,train
+Are we still on track for tomorrow?,QUESTION,QUE-08,train
+Are we still on track for tonight,QUESTION,QUE-08,train
+Are we still on track for Friday?,QUESTION,QUE-08,train
+are we still on track for thursday?,QUESTION,QUE-08,train
+are we still on track for wednesday?,QUESTION,QUE-08,train
+Are we still on track for Thursday?,QUESTION,QUE-08,train
+Are we still on track for the 14th?,QUESTION,QUE-08,train
+Who owns frontend,QUESTION,QUE-09,validation
+Who owns database?,QUESTION,QUE-09,validation
+Who owns deployment?,QUESTION,QUE-09,validation
+Who owns testing?,QUESTION,QUE-09,validation
+who owns authentication?,QUESTION,QUE-09,validation
+Who owns documentation?,QUESTION,QUE-09,validation
+Who owns backend?,QUESTION,QUE-09,validation
+Why is the database connection failing?,QUESTION,QUE-10,train
+why is the login page failing?,QUESTION,QUE-10,train
+why is the database connection failing?,QUESTION,QUE-10,train
+Why is the CI pipeline failing?,QUESTION,QUE-10,train
+Why is the server failing?,QUESTION,QUE-10,train
+Why is the payment module failing?,QUESTION,QUE-10,train
+Why is the test suite failing?,QUESTION,QUE-10,train
+has anyone tested the unit tests?,QUESTION,QUE-11,train
+Has anyone tested the user survey?,QUESTION,QUE-11,train
+Has anyone tested the login page?,QUESTION,QUE-11,train
+has anyone tested the deployment script?,QUESTION,QUE-11,train
+has anyone tested the dashboard?,QUESTION,QUE-11,train
+has anyone tested the api documentation?,QUESTION,QUE-11,train
+Has anyone tested the project report?,QUESTION,QUE-11,train
+where is the project report stored?,QUESTION,QUE-12,train
+Where is the search feature stored,QUESTION,QUE-12,train
+where is the analytics charts stored?,QUESTION,QUE-12,train
+Where is the user survey stored?,QUESTION,QUE-12,train
+Where is the presentation slides stored?,QUESTION,QUE-12,train
+Where is the onboarding flow stored?,QUESTION,QUE-12,train
+Where is the unit tests stored?,QUESTION,QUE-12,train
+What's the deadline for the onboarding flow,QUESTION,QUE-13,train
+What's the deadline for the dashboard,QUESTION,QUE-13,train
+What's the deadline for the API documentation,QUESTION,QUE-13,train
+What's the deadline for the landing page,QUESTION,QUE-13,train
+What's the deadline for the data cleaning script,QUESTION,QUE-13,train
+What's the deadline for the deployment script,QUESTION,QUE-13,train
+what's the deadline for the database schema,QUESTION,QUE-13,train
+Can someone explain how Vue works?,QUESTION,QUE-14,test
+can someone explain how mongodb works?,QUESTION,QUE-14,test
+Can someone explain how Docker works?,QUESTION,QUE-14,test
+Can someone explain how Redis works?,QUESTION,QUE-14,test
+can someone explain how react works?,QUESTION,QUE-14,test
+Can someone explain how Firebase works?,QUESTION,QUE-14,test
+can someone explain how aws works?,QUESTION,QUE-14,test
+Is the backend ready for the demo?,QUESTION,QUE-15,train
+is the frontend ready for the demo?,QUESTION,QUE-15,train
+is the testing ready for the demo?,QUESTION,QUE-15,train
+Is the testing ready for the demo,QUESTION,QUE-15,train
+Is the authentication ready for the demo?,QUESTION,QUE-15,train
+is the authentication ready for the demo?,QUESTION,QUE-15,train
+Is the testing ready for the demo?,QUESTION,QUE-15,train
+How many users are we expecting?,QUESTION,QUE-16,train
+how many users are we expecting?,QUESTION,QUE-16,train
+How many users are we expecting,QUESTION,QUE-16,train
+Do you know who is handling deployment?,QUESTION,QUE-17,validation
+Do you know who is handling frontend?,QUESTION,QUE-17,validation
+Do you know who is handling documentation?,QUESTION,QUE-17,validation
+do you know who is handling database?,QUESTION,QUE-17,validation
+Do you know who is handling backend?,QUESTION,QUE-17,validation
+Do you know who is handling database?,QUESTION,QUE-17,validation
+Do you know who is handling authentication?,QUESTION,QUE-17,validation
+When does the sprint end,QUESTION,QUE-18,test
+When does the sprint end?,QUESTION,QUE-18,test
+when does the sprint end?,QUESTION,QUE-18,test
+What did we decide about Firebase?,QUESTION,QUE-19,test
+What did we decide about SQLite?,QUESTION,QUE-19,test
+What did we decide about AWS?,QUESTION,QUE-19,test
+what did we decide about redis?,QUESTION,QUE-19,test
+What did we decide about PostgreSQL?,QUESTION,QUE-19,test
+What did we decide about Firebase,QUESTION,QUE-19,test
+what did we decide about mysql?,QUESTION,QUE-19,test
+Is Ananya joining today?,QUESTION,QUE-20,train
+Is Kiran joining today?,QUESTION,QUE-20,train
+is rahul joining today?,QUESTION,QUE-20,train
+Is Meera joining today?,QUESTION,QUE-20,train
+is vikram joining today?,QUESTION,QUE-20,train
+is ananya joining today?,QUESTION,QUE-20,train
+Is Arjun joining today?,QUESTION,QUE-20,train
+Does anyone know if the deployment is fixed?,QUESTION,QUE-21,train
+Does anyone know if the test suite is fixed?,QUESTION,QUE-21,train
+Does anyone know if the API is fixed,QUESTION,QUE-21,train
+Does anyone know if the login page is fixed?,QUESTION,QUE-21,train
+Does anyone know if the search endpoint is fixed?,QUESTION,QUE-21,train
+Does anyone know if the mobile app is fixed?,QUESTION,QUE-21,train
+Does anyone know if the build is fixed?,QUESTION,QUE-21,train
+Who is presenting on the 14th,QUESTION,QUE-22,train
+Who is presenting on the 14th?,QUESTION,QUE-22,train
+Who is presenting on tomorrow?,QUESTION,QUE-22,train
+Who is presenting on next week?,QUESTION,QUE-22,train
+who is presenting on next week?,QUESTION,QUE-22,train
+Who is presenting on Friday?,QUESTION,QUE-22,train
+Who is presenting on tonight?,QUESTION,QUE-22,train
+What happens if the login page fails?,QUESTION,QUE-23,train
+What happens if the CI pipeline fails?,QUESTION,QUE-23,train
+What happens if the deployment fails?,QUESTION,QUE-23,train
+What happens if the payment module fails?,QUESTION,QUE-23,train
+What happens if the database connection fails?,QUESTION,QUE-23,train
+What happens if the search endpoint fails?,QUESTION,QUE-23,train
+what happens if the search endpoint fails?,QUESTION,QUE-23,train
+are there any blockers for the analytics charts?,QUESTION,QUE-24,validation
+Are there any blockers for the data cleaning script,QUESTION,QUE-24,validation
+Are there any blockers for the project report?,QUESTION,QUE-24,validation
+Are there any blockers for the presentation slides?,QUESTION,QUE-24,validation
+Are there any blockers for the deployment script?,QUESTION,QUE-24,validation
+Are there any blockers for the database schema?,QUESTION,QUE-24,validation
+Are there any blockers for the API documentation?,QUESTION,QUE-24,validation
+Did Dev send the invite,QUESTION,QUE-25,train
+did meera send the invite,QUESTION,QUE-25,train
+Did Priya send the invite,QUESTION,QUE-25,train
+did Sriya send the invite,QUESTION,QUE-25,train
+did Neha send the invite,QUESTION,QUE-25,train
+Did Vikram send the invite,QUESTION,QUE-25,train
+Did Neha send the invite,QUESTION,QUE-25,train
+is vue free to use?,QUESTION,QUE-26,train
+Is Vue free to use?,QUESTION,QUE-26,train
+is aws free to use?,QUESTION,QUE-26,train
+is react free to use?,QUESTION,QUE-26,train
+is firebase free to use?,QUESTION,QUE-26,train
+is flask free to use?,QUESTION,QUE-26,train
+Is MySQL free to use?,QUESTION,QUE-26,train
+How is Dev doing with the API documentation,QUESTION,QUE-27,validation
+How is Kiran doing with the unit tests?,QUESTION,QUE-27,validation
+How is Priya doing with the login page?,QUESTION,QUE-27,validation
+How is Sriya doing with the deployment script?,QUESTION,QUE-27,validation
+How is Arjun doing with the API documentation?,QUESTION,QUE-27,validation
+How is Ananya doing with the presentation slides,QUESTION,QUE-27,validation
+How is Sriya doing with the database schema?,QUESTION,QUE-27,validation
+Any updates on the payment module?,QUESTION,QUE-28,train
+Any updates on the test suite?,QUESTION,QUE-28,train
+Any updates on the build?,QUESTION,QUE-28,train
+Any updates on the mobile app?,QUESTION,QUE-28,train
+Any updates on the staging site?,QUESTION,QUE-28,train
+Any updates on the login page?,QUESTION,QUE-28,train
+Any updates on the CI pipeline,QUESTION,QUE-28,train
+So when do we need the dashboard again?,QUESTION,QUE-29,validation
+So when do we need the data cleaning script again,QUESTION,QUE-29,validation
+So when do we need the mobile layout again?,QUESTION,QUE-29,validation
+so when do we need the mobile layout again?,QUESTION,QUE-29,validation
+so when do we need the unit tests again?,QUESTION,QUE-29,validation
+So when do we need the data cleaning script again?,QUESTION,QUE-29,validation
+So when do we need the search feature again?,QUESTION,QUE-29,validation
