@@ -7,24 +7,20 @@ services:
     runtime: docker
     rootDir: backend
     dockerfilePath: ./Dockerfile
-    plan: starter            # 512 MB RAM; a persistent disk requires a paid plan
+    plan: free               # 512 MB RAM; sleeps when idle; no persistent disk (history resets on restart)
     healthCheckPath: /api/health
     envVars:
       - key: INSIGHTMEET_DB
         value: /data/insightmeet.db
       - key: INSIGHTMEET_CORS
         sync: false          # set to the frontend URL, e.g. https://insightmeet-web.onrender.com
-    disk:
-      name: insightmeet-data
-      mountPath: /data
-      sizeGB: 1
 
   # ---------------------------------------------------------------- Frontend
   - type: web
     name: insightmeet-web
     runtime: node
     rootDir: frontend
-    plan: starter
+    plan: free
     buildCommand: npm ci && npm run build
     startCommand: npm run start
     healthCheckPath: /

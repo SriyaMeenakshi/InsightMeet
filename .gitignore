@@ -225,3 +225,6 @@ backend/models/*.joblib
 frontend/node_modules/
 frontend/.next/
 frontend/next-env.d.ts
+
+# Python template ignores "lib/", but the frontend source lives in frontend/lib/
+!frontend/lib/

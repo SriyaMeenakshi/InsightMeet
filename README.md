@@ -167,7 +167,9 @@ The repo includes `render.yaml` (a Render Blueprint) and `backend/Dockerfile`.
 4. Redeploy **both** (the frontend reads `NEXT_PUBLIC_API_URL` at build time).
 5. Check `https://<api>/api/health`, then open the web URL and analyze the example transcript.
 
-Notes: a persistent disk needs a paid Render plan (without it history is lost on every deploy); the API uses roughly
+Notes: `render.yaml` uses Render's **free** plan, which sleeps when idle (the first request afterwards is slow) and has
+no persistent disk, so saved meetings are lost on restart or redeploy. For permanent history, switch the API to a paid
+plan and add a disk mounted at `/data`. The API uses roughly
 200 MB of RAM when measured locally; the app has **no authentication**, so do not store sensitive transcripts on a
 public URL.
 
