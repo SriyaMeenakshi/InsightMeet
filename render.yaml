@@ -1,0 +1,35 @@
+# Render Blueprint: deploys both InsightMeet services from this repo.
+# Dashboard: New > Blueprint > select this repository.
+services:
+  # ---------------------------------------------------------------- API
+  - type: web
+    name: insightmeet-api
+    runtime: docker
+    rootDir: backend
+    dockerfilePath: ./Dockerfile
+    plan: starter            # 512 MB RAM; a persistent disk requires a paid plan
+    healthCheckPath: /api/health
+    envVars:
+      - key: INSIGHTMEET_DB
+        value: /data/insightmeet.db
+      - key: INSIGHTMEET_CORS
+        sync: false          # set to the frontend URL, e.g. https://insightmeet-web.onrender.com
+    disk:
+      name: insightmeet-data
+      mountPath: /data
+      sizeGB: 1
+
+  # ---------------------------------------------------------------- Frontend
+  - type: web
+    name: insightmeet-web
+    runtime: node
+    rootDir: frontend
+    plan: starter
+    buildCommand: npm ci && npm run build
+    startCommand: npm run start
+    healthCheckPath: /
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: NEXT_PUBLIC_API_URL
+        sync: false          # set to the API URL, e.g. https://insightmeet-api.onrender.com (no trailing slash)

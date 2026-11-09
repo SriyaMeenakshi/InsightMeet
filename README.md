@@ -153,6 +153,24 @@ npm run dev
 Errors: `422` validation (empty/short text, bad date, corrupt file), `413` too large, `415` unsupported type, `404`
 unknown meeting.
 
+## Deploying on Render
+
+The repo includes `render.yaml` (a Render Blueprint) and `backend/Dockerfile`.
+
+1. Push the repo to GitHub, then in Render choose **New → Blueprint** and select it. Render creates two services:
+   `insightmeet-api` (Docker, with a 1 GB persistent disk at `/data` holding the SQLite file) and `insightmeet-web`
+   (Node).
+2. When prompted, leave the two `sync: false` values empty for now and deploy.
+3. Copy each service's public URL, then set:
+   - on `insightmeet-api`: `INSIGHTMEET_CORS` = the web URL (no trailing slash)
+   - on `insightmeet-web`: `NEXT_PUBLIC_API_URL` = the API URL (no trailing slash)
+4. Redeploy **both** (the frontend reads `NEXT_PUBLIC_API_URL` at build time).
+5. Check `https://<api>/api/health`, then open the web URL and analyze the example transcript.
+
+Notes: a persistent disk needs a paid Render plan (without it history is lost on every deploy); the API uses roughly
+200 MB of RAM when measured locally; the app has **no authentication**, so do not store sensitive transcripts on a
+public URL.
+
 ## Testing
 
 ```powershell
